@@ -4,14 +4,9 @@
 public class Card {
 
     private String name;
-    private int cardSet;
+    private int cardSet, rarity,cardType,cost,classType;
     private boolean collectible;
-    private int rarity;
-    private int cardType;
-    private int cost;
-    private int classType;
-    private String textOnCard;
-    private String flavorText;
+    private String textOnCard,flavorText;
 
     public String getName() {
         return name;
