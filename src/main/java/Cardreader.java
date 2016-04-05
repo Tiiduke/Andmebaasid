@@ -45,20 +45,20 @@ public class Cardreader {
 
     public static void assignProperty(Card card, Element element) {
 
-        int attribute = Integer.parseInt(element.getAttribute("value"));
+        String attribute = element.getAttribute("value");
         NodeList languages = element.getElementsByTagName("enUS");
 
         switch(element.getAttribute("name")) {
             case "CardName": card.setName(languages.item(0).getTextContent()); break;
+            case "CardSet": card.setCardSet(Integer.parseInt(attribute)); break;
+            case "Collectible": card.setCollectible("1".equals(attribute)); break;
+            case "Rarity": card.setRarity(Integer.parseInt(attribute)); break;
+            case "CardType": card.setCardType(Integer.parseInt(attribute)); break;
+            case "Cost": card.setCost(Integer.parseInt(attribute)); break;
+            case "Class": card.setClassType(Integer.parseInt(attribute)); break;
             case "CardTextInHand": card.setTextOnCard(languages.item(0).getTextContent()); break;
             case "FlavorText": card.setFlavorText(languages.item(0).getTextContent()); break;
-            case "ArtistName": card.setArtistName(element.getTextContent()); break;
-            case "Collectible": card.setCollectible(attribute == 1); break;
-            case "CardSet": card.setCardSet(attribute); break;
-            case "Rarity": card.setRarity(attribute); break;
-            case "CardType": card.setCardType(attribute); break;
-            case "Cost": card.setCost(attribute); break;
-            case "Class": card.setClassType(attribute); break;
+            case "ArtistName": card.setArtistName(element.getTextContent());
             default: break;
         }
     }
@@ -73,5 +73,8 @@ public class Cardreader {
     public static void main(String[] args) throws Exception{
 
         ArrayList<Card> cards = getCardArrayListFromInputName("CardDefs.xml");
+
+        for (Card card : cards)
+            System.out.println(card);
     }
 }
