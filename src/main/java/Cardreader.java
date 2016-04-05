@@ -6,6 +6,7 @@ import sun.plugin.dom.core.Document;
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
 import java.io.File;
+import java.util.ArrayList;
 
 /**
  * Created by Tiit on 2.04.2016.
@@ -13,42 +14,64 @@ import java.io.File;
 //Test
 public class Cardreader {
 
+    public static ArrayList<Card> getCardArrayListFromInputName(String filename) throws Exception{
 
+        File input = new File(filename);
 
-    public static void assignProperty(Card card, Element element) {
-        switch(element.getAttribute("name")) {
-            case "CardName": NodeList languages = element.getElementsByTagName("enUS");
-                System.out.println(languages.item(0).getTextContent()); break;
-            default: break;
-
-        }
-    }
-
-    public static void main(String[] args) throws Exception{
-        File input = new File("CardDefs.xml");
         DocumentBuilderFactory factory = DocumentBuilderFactory.newInstance();
         DocumentBuilder builder = factory.newDocumentBuilder();
         org.w3c.dom.Document document = builder.parse(input);
 
         NodeList cardList = document.getElementsByTagName("Entity");
 
+        ArrayList<Card> cards = new ArrayList<>();
+
         for (int i = 0; i < cardList.getLength(); i++) {
-            Node node = cardList.item(i);
 
-            if (node.getNodeType() == Node.ELEMENT_NODE) {
-                Card card = new Card();
+            Node cardAsXML = cardList.item(i);
 
-                Element element = (Element) node;
+            Card card = new Card();
 
-                NodeList properties = element.getElementsByTagName("Tag");
+            Element cardElement = (Element) cardAsXML;
+            NodeList properties = cardElement.getElementsByTagName("Tag");
 
-                for (int j = 0; j < properties.getLength(); j++) {
-                    Element property = (Element) properties.item(j);
-                    assignProperty(card, property);
-                }
+            assignProperties(card, properties);
 
-            }
-
+            cards.add(card);
         }
+
+        return cards;
+    }
+
+    public static void assignProperty(Card card, Element element) {
+
+        int attribute = Integer.parseInt(element.getAttribute("value"));
+        NodeList languages = element.getElementsByTagName("enUS");
+
+        switch(element.getAttribute("name")) {
+            case "CardName": card.setName(languages.item(0).getTextContent()); break;
+            case "CardTextInHand": card.setTextOnCard(languages.item(0).getTextContent()); break;
+            case "FlavorText": card.setFlavorText(languages.item(0).getTextContent()); break;
+            case "ArtistName": card.setArtistName(element.getTextContent()); break;
+            case "Collectible": card.setCollectible(attribute == 1); break;
+            case "CardSet": card.setCardSet(attribute); break;
+            case "Rarity": card.setRarity(attribute); break;
+            case "CardType": card.setCardType(attribute); break;
+            case "Cost": card.setCost(attribute); break;
+            case "Class": card.setClassType(attribute); break;
+            default: break;
+        }
+    }
+
+    public static void assignProperties(Card card, NodeList properties) {
+        for (int j = 0; j < properties.getLength(); j++) {
+            Element property = (Element) properties.item(j);
+            assignProperty(card, property);
+        }
+    }
+
+    public static void main(String[] args) throws Exception{
+
+        ArrayList<Card> cards = getCardArrayListFromInputName("CardDefs.xml");
     }
 }

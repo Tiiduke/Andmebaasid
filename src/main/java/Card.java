@@ -3,10 +3,9 @@
  */
 public class Card {
 
-    private String name;
     private int cardSet, rarity,cardType,cost,classType;
     private boolean collectible;
-    private String textOnCard,flavorText;
+    private String name, textOnCard,flavorText, artistName;
 
     public String getName() {
         return name;
@@ -78,5 +77,13 @@ public class Card {
 
     public void setFlavorText(String flavorText) {
         this.flavorText = flavorText;
+    }
+
+    public String getArtistName() {return artistName;}
+
+    public void setArtistName(String artistName) { this.artistName = artistName; }
+
+    public String toString() {
+        return name + " " + cardSet;
     }
 }
