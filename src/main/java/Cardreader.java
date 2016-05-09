@@ -14,7 +14,7 @@ import java.util.ArrayList;
 //Test
 public class Cardreader {
 
-    public static ArrayList<Card> getCardArrayListFromInputName(String filename) throws Exception{
+    public  ArrayList<Card> getCardArrayListFromInputName(String filename) throws Exception{
 
         File input = new File(filename);
 
@@ -43,7 +43,7 @@ public class Cardreader {
         return cards;
     }
 
-    public static void assignProperty(Card card, Element element) {
+    public void assignProperty(Card card, Element element) {
 
         String attribute = element.getAttribute("value");
         NodeList languages = element.getElementsByTagName("enUS");
@@ -63,7 +63,7 @@ public class Cardreader {
         }
     }
 
-    public static void assignProperties(Card card, NodeList properties) {
+    public void assignProperties(Card card, NodeList properties) {
         for (int j = 0; j < properties.getLength(); j++) {
             Element property = (Element) properties.item(j);
             assignProperty(card, property);
@@ -71,10 +71,10 @@ public class Cardreader {
     }
 
     public static void main(String[] args) throws Exception{
+        Cardreader cardreader = new Cardreader();
+        ArrayList<Card> cards = cardreader.getCardArrayListFromInputName("CardDefs.xml");
+        Writer writer = new Writer(cards);
+        writer.writeCards();
 
-        ArrayList<Card> cards = getCardArrayListFromInputName("CardDefs.xml");
-
-        for (Card card : cards)
-            System.out.println(card);
     }
 }
