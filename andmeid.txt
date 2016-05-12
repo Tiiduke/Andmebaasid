@@ -1,0 +1,810 @@
+15 1 5 5 4 Flame Lance Deal $8 damage to a minion. It's on the rack next to ice lance, acid lance, and English muffin lance. Nutthapon Petchthai 
+15 3 5 3 4 Effigy <b>Secret:</b> When a friendly minion dies, summon a random minion with the same Cost. Burning man, brah. Tooth 
+15 3 4 2 4 Fallen Hero Your Hero Power deals 1 extra damage. And he can't get up. Arthur Bozonnet 
+15 4 5 1 4 Arcane Blast Deal $2 damage to a minion. This spell gets double bonus from <b>Spell Damage</b>. Now with 100% more blast! Gabor Szikszai 
+15 3 5 3 4 Polymorph: Boar Transform a minion into a 4/2 Boar with <b>Charge</b>. It's always Huffer. Mike Sass 
+15 1 4 4 4 Dalaran Aspirant <b>Inspire:</b> Gain <b>Spell Damage +1</b>. Is he aspiring or inspiring?  Make up your mind! Dan Scott 
+15 1 4 3 4 Spellslinger <b>Battlecry:</b> Add a random spell to each player's hand. Does he sling spells, or do his spells linger about.  Who can say? Andrew Hou 
+15 4 4 6 4 Coldarra Drake You can use your Hero Power any number of times. The Grand Tournament has a "No dragons allowed" policy, but it's rarely enforced. Christopher Moeller 
+15 5 4 8 4 Rhonin <b>Deathrattle:</b> Add 3 copies of Arcane Missiles to your hand. A masterless shamurai. Zoltan & Gabor 
+15 3 4 5 3 Ram Wrangler <b>Battlecry:</b> If you have a Beast, summon a
+random Beast. Not getting trampled is really the trick here. Brandon Kitkouski 
+15 1 4 4 6 Holy Champion Whenever a character is healed, gain +2 Attack. She really likes seeing people get better.  That's why she hurts them in the first place. Alex Garner 
+15 3 4 4 6 Spawn of Shadows <b>Inspire:</b> Deal 4 damage to each hero. What did you expect to happen?  He's a Spawn.  Of Shadows. Dave Allsop 
+15 1 5 1 6 Power Word: Glory Choose a minion. Whenever it attacks, restore 4 Health to
+your hero. The promise of glory is a powerful tool to get minions to do your bidding.  Only slightly less powerful than the promise of an ice cream bar! Mike Sass 
+15 4 4 3 6 Shadowfiend Whenever you draw a card, reduce its Cost by (1). Hopes to be promoted to "Shadowfriend" someday. Warren Mahy 
+15 3 5 2 6 Convert Put a copy of an enemy minion into your hand. "Are you interested in... HEALTH benefits?!" Dan Dos Santos 
+15 4 5 2 6 Confuse Swap the Attack and Health of all minions. This minion is really powerful! Sean O'Danield 
+15 4 4 4 0 Twilight Guardian <b>Battlecry:</b> If you're holding a Dragon, gain +1 Attack and <b>Taunt</b>. A result of magical experiments carried out by the Black Dragonflight, it's not his fault that he's a vicious killer. Slawomir Maniak 
+15 5 4 7 6 Confessor Paletress <b>Inspire:</b> Summon a random <b>Legendary</b> minion. She sees into your past and makes you face your fears.  Most common fear:  Getting Majordomo out of Sneed's Old Shredder. Chris Rahn 
+15 4 4 4 9 Dreadsteed <b>Deathrattle:</b> Summon a Dreadsteed. Crescendo himself summoned this steed, riding it to victory in the Grand Tournament.  Wherever he rides, an army of riders ride behind him, supporting the legendary champion. Alex Horley Orlandelli 
+15 1 4 7 9 Fearsome Doomguard null They were originally called Cuddleguards, but they were not inspiring the proper amount of fear. Anton Zemskov 
+15 3 4 2 9 Tiny Knight of Evil Whenever you discard a card, gain +1/+1. "No, no, no. I asked for a tiny JESTER of evil." Raymond Swanland 
+15 3 5 4 9 Fist of Jaraxxus When you play or discard this, deal $4 damage to a random enemy. * Not actually Jaraxxus' fist. Matt Dixon 
+15 3 4 6 9 Void Crusher <b>Inspire:</b> Destroy a random minion for each player. We like to call him "Wesley". Skan Srisuwan 
+15 1 5 2 9 Demonfuse Give a Demon +3/+3. Give your opponent a Mana Crystal. Very dangerous when attached to a demonbomb. Kevin Chen 
+15 4 5 6 9 Dark Bargain Destroy 2 random enemy minions. Discard 2 random cards. A prime example of lose-lose negotiating. Paul Mafayon 
+15 1 4 2 9 Wrathguard Whenever this minion takes damage, also deal that amount to your hero. After playing against 5 Annoy-O-Trons, any normal guard will become a Wrathguard. Sojin Hwang 
+15 5 4 6 9 Wilfred Fizzlebang Cards you draw from your Hero Power cost (0). He can summon anything, even a FEARSOME DOOMGUARD*.
+*He's pretty sure this is going to work out. Tooth 
+15 1 4 5 7 Shado-Pan Rider <b>Combo:</b> Gain +3 Attack. He needed a break after that business in the Vale of Eternal Blossoms. Naturally, he chose to spend his vacation in an icy snowscape killing monsters. Ryan Metcalf 
+15 1 4 1 7 Buccaneer Whenever you equip a weapon, give it +1 Attack. The best part of buccaneering is the pants. Matt Dixon 
+15 1 4 2 7 Undercity Valiant <b>Combo:</b> Deal 1 damage. Almost went to play for Stormwind before signing with Undercity. Zoltan Boros  
+15 3 4 2 7 Cutpurse Whenever this minion attacks a hero, add the Coin to your hand. He has a giant collection of purses now.  One for every outfit! Alex Horley Orlandelli 
+15 3 4 3 7 Shady Dealer <b>Battlecry:</b> If you have a Pirate, gain +1/+1. I have great deal for you... for 4 damage to your face! Tooth 
+15 3 5 3 7 Burgle Add 2 random class cards to your hand <i>(from your opponent's class)</i>. Yoink! Matt Dixon 
+15 4 7 4 7 Poisoned Blade Your Hero Power gives this weapon +1 Attack instead of replacing it. How much more poisoned can a blade get?  The answer is a lot.  A lot more poisoned. Nutthapon Petchthai 
+15 4 5 3 7 Beneath the Grounds Shuffle 3 Ambushes into your opponent's deck. When drawn, you summon a 4/4 Nerubian. Can you hold these eggs for just a second?  I promise they're not full of giant enraged undead spider things. Daren Bader 
+15 5 4 9 7 Anub'arak <b>Deathrattle:</b> Return this to your hand and summon a 4/4 Nerubian. Was actually a pretty nice guy before, you know, the whole Lich King thing. Eric Braddock 
+15 1 5 1 2 Living Roots <b>Choose One</b> - Deal $2 damage; or Summon two 1/1 Saplings. 2 out of 2 saplings recommend that you summon the saplings. Dan Brereton 
+15 3 4 2 2 Darnassus Aspirant <b>Battlecry:</b> Gain an empty Mana Crystal.
+<b>Deathrattle:</b> Lose a Mana Crystal. She loves mana crystals, she hates mana crystals.   So fickle! Laurel Austin 
+15 3 4 4 2 Savage Combatant <b>Inspire:</b> Give your hero
++2 Attack this turn. Maybe if you whistle a tune it will soothe him.  Yeah...  Try that. Alex Pascenko 
+15 1 4 4 2 Wildwalker <b>Battlecry:</b> Give a friendly Beast +3 Health. She was born to be something.  She is just not quite sure what yet... James Ryman 
+15 3 4 7 2 Knight of the Wild Whenever you summon a Beast, reduce the Cost of this card by (1). He gets a discount on the tournament entry fee because he is his own horse. Ralph Horsley 
+15 1 4 2 2 Druid of the Saber <b>Choose One -</b> Transform to gain <b>Charge</b>; or +1/+1 and <b>Stealth</b>. That's saberTEETH, not like curved pirate blades.  That's a different kind of druid.  Druid of the Curved Pirate Blades. Arthur Gimaldinov 
+15 4 5 4 2 Astral Communion Gain 10 Mana Crystals. Discard your hand. Hey!  Moon!  Can I have some mana crystals? Christopher Moeller 
+15 4 5 3 2 Mulch Destroy a minion.
+Add a random minion to your opponent's hand. Is this a noun or a verb?  We will never know. Dan Scott 
+15 5 4 9 2 Aviana Your minions cost (1). Call her "Tweety".  She'll find it real funny.  I PROMISE. Velvet Engine 
+15 1 4 3 8 Tuskarr Totemic <b>Battlecry:</b> Summon ANY random Totem. Turns out the tuskarr aren't real choosy about their totems. Eva Widermann 
+15 3 4 4 8 Draenei Totemcarver <b>Battlecry:</b> Gain +1/+1 for each friendly Totem. It's nice to find a real craftsman in this day and age of mass-produced totems. RK Post 
+15 3 5 3 8 Healing Wave Restore #7 Health. Reveal a minion in each deck. If yours costs more, Restore #14 instead. Favored by shaman who study the art of restoration and healing, this spell would feel smug, if it had feelings. Luca Zontini 
+15 3 4 5 8 Thunder Bluff Valiant <b>Inspire:</b> Give your Totems +2 Attack. Allowing totems to attack is not cheating.  I mean, there isn't anything in the rule books about it. Sean McNally 
+15 4 7 4 8 Charged Hammer <b>Deathrattle:</b> Your Hero Power becomes 'Deal 2 damage.' You can only pick it up if you are worthy. Peet Cooper 
+15 4 5 3 8 Elemental Destruction Deal $4-$5 damage to all minions. <b>Overload: (5)</b> I'm not a shaman or anything, but isn't Elemental Destruction the opposite of what they want to do? Tyler Walpole 
+15 1 4 2 8 Totem Golem <b>Overload: (1)</b> What happens when you glue a buncha totems together. Steve Prescott 
+15 1 5 2 8 Ancestral Knowledge Draw 2 cards. <b>Overload: (2)</b> MOMMMMMYYYYYYYYY!!! Zoltan & Gabor 
+15 5 4 6 8 The Mistcaller <b>Battlecry:</b> Give all minions in your hand and deck +1/+1. Calling the mist doesn't sound all that great.  "Ooooh, it is slightly damp now!" Wei Wang 
+15 1 5 1 6 Flash Heal Restore #5 Health. Flash!  Ahhhhhhh~ Marcelo Vignali 
+15 3 5 3 3 Powershot Deal $2 damage to a minion and the minions next to it. pow POW pow Jonboy Meyers 
+15 4 4 3 3 Stablemaster <b>Battlecry:</b> Give a friendly Beast <b>Immune</b> this turn. Takes way better care of her pets than her brother, Unstablemaster. Tyson Murphy 
+15 1 4 2 3 King's Elekk <b>Battlecry:</b> Reveal a minion in each deck. If yours costs more, draw it. Elekk jousting is AWESOME. James Zhang 
+15 1 4 1 3 Brave Archer <b>Inspire:</b> If your hand is empty, deal 2 damage to the enemy hero. This is a "bearly" concealed reference. Eva Widermann 
+15 1 5 2 3 Bear Trap <b>Secret:</b> After your hero is attacked, summon a 3/3 Bear with <b>Taunt</b>. You'll never guess what's in that conveniently bear-sized, bear-smelling box.  Richard Wright 
+15 4 5 2 3 Lock and Load Each time you cast a spell this turn, add a random Hunter card to your hand. Rexxar narrowed his eyes, grabbed his machine gun, and said: "It's go time.  Lock and load."
+This card pays homage to that special moment. Matt Dixon 
+15 3 5 6 3 Ball of Spiders Summon three 1/1 Webspinners. "THEY'RE EVERYWHERE GET THEM OFF!!!" - Everyone Skan Srisuwan 
+15 5 4 7 3 Acidmaw Whenever another minion takes damage, destroy it. With the help of his trusty sidekick Dreadscale, the giant jormungar Acidmaw is ready to face any knight! Andrew Hou 
+15 5 4 3 3 Dreadscale At the end of your turn, deal 1 damage to all other minions. Let's be clear about this:  ACIDMAW is the sidekick. Zoltan Boros 
+15 1 5 3 10 Bash Deal $3 damage.
+Gain 3 Armor. You might think bashing doesn't take a lot of practice.  It doesn't. Dany Orizio 
+15 3 7 3 10 King's Defender <b>Battlecry</b>: If you have a minion with <b>Taunt</b>,  gain +1 Durability. "King's Attacker" is a shield.  Funny, huh? Michael Franchina 
+15 1 4 3 10 Orgrimmar Aspirant <b>Inspire:</b> Give your weapon +1 Attack. "Four out of three orcs struggle with math." - Angry Zurge Hideaki Takamura 
+15 4 4 4 10 Magnataur Alpha Also damages the minions next to whomever
+he attacks. Playing him also gets you into the Magnataur Beta. Alex Horley Orlandelli 
+15 1 5 2 10 Bolster Give your <b>Taunt</b> minions +2/+2. The best offense is a good defense. Mishi McCaig 
+15 3 4 2 10 Sparring Partner <b>Taunt</b>
+<b>Battlecry:</b> Give a
+minion <b>Taunt</b>. Come at me, bro. Jim Nelson 
+15 5 4 7 0 Skycap'n Kragg <b>Charrrrrge</b>
+Costs (1) less for each friendly Pirate. What's more boss than riding a parrot with a jawbone for a shoulderpad while wielding a giant hook-lance-thing and wearing a pirate hat?  NOTHING. Alex Horley Orlandelli 
+15 3 4 2 10 Alexstrasza's Champion <b>Battlecry:</b> If you're holding a Dragon, gain +1 Attack and <b>Charge</b>. "Put more spikes on her.  No, more spikes.  What part of 'more spikes' do you not understand?  MORE SPIKES!" - Alexstrasza Evgeniy Zagumennyy 
+15 5 4 10 10 Varian Wrynn <b>Battlecry:</b> Draw 3 cards.
+Put any minions you drew directly into the battlefield. Leader of the Alliance!  Father of Anduin!  Also he likes to play Arena, and he averages 12 wins. Wei Wang 
+15 3 5 1 5 Competitive Spirit <b>Secret:</b> When your turn starts, give your minions +1/+1. Competition can be an inspiration to improve oneself.  Or kill all the competitors. Jim Nelson 
+15 1 5 3 5 Seal of Champions Give a minion
++3 Attack and <b>Divine Shield</b>. "Arf! Arf! Arf!" - Seal of Champions Jonboy Meyers 
+15 1 4 3 5 Warhorse Trainer Your Silver Hand Recruits have +1 Attack. He doesn't even get Sundays off.  Every day he's hostling. Zoltan & Gabor 
+15 1 4 4 5 Murloc Knight <b>Inspire:</b> Summon a random Murloc. Hee hee!  Look at his cute little feet. Sam Nielson 
+15 3 7 2 5 Argent Lance <b>Battlecry:</b> Reveal a minion in each deck. If yours costs more, +1 Durability. The stripes make it look like a candy cane, but we recommend against licking it. Joe Wilson 
+15 4 5 6 5 Enter the Coliseum Destroy all minions except each player's highest Attack minion. You have to get past the vendors first.  So many are lost to shopping... Mauricio Herrera 
+15 4 4 6 5 Mysterious Challenger <b>Battlecry:</b> Put one of each <b>Secret</b> from your deck into the battlefield. He may sound surly and antisocial, but he's actually just really shy. Zoltan Boros 
+15 4 4 2 0 Garrison Commander You can use your Hero Power twice a turn. He'll never admit it, but he pushes you hard because he really cares about you. Jesper Ejsing 
+15 5 4 7 5 Eadric the Pure <b>Battlecry:</b> Change all enemy minions'
+Attack to 1. Nobody rocks a monocle like Eadric.  James Ryman 
+15 1 4 1 0 Lowly Squire <b>Inspire:</b> Gain +1 Attack. But not the lowliest! Ron Spears 
+15 1 4 3 0 Dragonhawk Rider <b>Inspire:</b> Gain <b>Windfury</b>
+this turn. Check it out.  You can do barrel rolls on this thing. Anton Zemskov 
+15 1 4 2 0 Lance Carrier <b>Battlecry:</b> Give a friendly minion +2 Attack. Lance Carrier is an obscure entry level position in orcish armies.  A mystery, since orcs don't generally use lances. Tyson Murphy 
+15 1 4 4 0 Maiden of the Lake Your Hero Power costs (1). Not a good basis for a system of government. Froilan Gardner 
+15 3 4 3 0 Saboteur <b>Battlecry:</b> Your opponent's Hero Power costs (5) more next turn. Listen all y'all it's a saboteur! Greg Staples 
+15 1 4 3 0 Argent Horserider <b>Charge</b>
+<b>Divine Shield</b> His horse's name is Betsy. Evgeniy Zagumennyy 
+15 3 4 6 0 Mogor's Champion 50% chance to attack the wrong enemy. This champion has learned from the best.  Except for his target selection. Steve Prescott 
+15 1 4 2 0 Boneguard Lieutenant <b>Inspire:</b> Gain +1 Health. Underneath all that impressive armor, he's just skin and bones.  Okay, maybe just bones. Slawomir Maniak 
+15 1 4 5 0 Mukla's Champion <b>Inspire:</b> Give your other minions +1/+1. An elegant gorilla, for a more civilized age. Andrew Hou 
+15 1 4 4 0 Tournament Medic <b>Inspire:</b> Restore 2 Health to your hero. The medic tournament is less entertaining than the Grand Tournament. Sean McNally 
+15 1 4 3 0 Ice Rager null He's a lot cooler than Magma Rager. Anton Zemskov 
+15 1 4 4 0 Frigid Snobold <b>Spell Damage +1</b> Ironically, the natural enemy of the snobold is THE CANDLE. Matt Dixon 
+15 1 4 2 0 Flame Juggler <b>Battlecry:</b> Deal 1 damage to a random enemy. At first he liked juggling chain saws, but then he thought, "Flames are better!  Because FIRE!" James Zhang 
+15 1 4 3 0 Silent Knight <b>Stealth</b>
+<b>Divine Shield</b> He used to be a librarian.  Old habits die hard. Esad Ribic 
+15 1 4 5 0 Clockwork Knight <b>Battlecry:</b> Give a friendly Mech +1/+1. It takes a lot to wind him up. Skan Srisuwan 
+15 1 4 1 0 Tournament Attendee <b>Taunt</b> He was so excited to get season tickets to this year's Grand Tournament.  He normally doesn't get them at first and has to buy them from Ogre scalpers. Adam Byrne 
+15 4 4 6 0 Sideshow Spelleater <b>Battlecry:</b> Copy your opponent's Hero Power. Hey!  Let me try that... Wayne Reynolds 
+15 4 4 6 0 Kodorider <b>Inspire:</b> Summon a 3/5 War Kodo. Someone called her a Rhinorider, and she's NOT HAPPY. Ben Wootten 
+15 1 4 3 0 Silver Hand Regent <b>Inspire:</b> Summon a 1/1 Silver Hand Recruit. The Silver Hand is the best paladin organization.  The Argent Crusaders are super jealous. John Polidora 
+15 1 4 5 0 Pit Fighter null What did the pits ever do to you? Alex Horley Orlandelli 
+15 1 4 7 0 Captured Jormungar null You can keep him, but you have to promise to feed him and clean out his tank every day! Gonzalo Ordonez 
+15 1 4 9 0 North Sea Kraken <b>Battlecry:</b> Deal 4 damage. You have no idea how tired this guy is of being released. Seamus Gallagher 
+15 3 4 5 5 Tuskarr Jouster <b>Battlecry:</b> Reveal a minion in each deck. If yours costs more, restore 7 Health to your hero. Just could not be talked out of using his turtle for the joust... Skan Srisuwan 
+15 3 4 1 0 Injured Kvaldir <b>Battlecry:</b> Deal 3 damage to this minion. Don't worry.  With a little skin cream he's going to clear right up. Zoltan Boros 
+15 3 4 3 0 Light's Champion <b>Battlecry:</b> <b>Silence</b> a Demon. When there's something strange (say, a gibbering demon) in your neighborhood, who are you going to call? Andrea Uderzo 
+15 3 4 4 0 Armored Warhorse <b>Battlecry:</b> Reveal a minion in each deck. If yours costs more, gain <b>Charge</b>. Yep.  It's a horse... wearing armor... going to war. Edouard Guiton & Tony Washington 
+15 3 4 2 0 Argent Watchman Can't attack.
+<b>Inspire:</b> Can attack as normal this turn. Who argent watches the Argent Watchman? Ben Zhang 
+15 3 4 3 0 Coliseum Manager <b>Inspire:</b> Return this minion to your hand. Meets monthly with the gladiators to discuss career goals. Dan Scott 
+15 1 4 4 0 Refreshment Vendor <b>Battlecry:</b> Restore 4 Health to each hero. Menu:  Funnel cakes, carrots, popcorn, jormungar steaks.  It's hard serving a diverse clientele. Ron Spears 
+15 3 4 6 0 Master Jouster <b>Battlecry:</b> Reveal a minion in each deck. If yours costs more, gain <b>Taunt</b> and <b>Divine Shield</b>. Needs just a few more ratings points to become Grandmaster Jouster. Penny Arcade 
+15 4 4 5 0 Recruiter <b>Inspire:</b> Add a 2/2 Squire to your hand. Join the Argent Crusade!  We have attractive tabards and you get to carry really nice swords! Jim Nelson 
+15 1 4 4 0 Evil Heckler <b>Taunt</b> To be honest, heckling is not the most effective form of evil. Dan Scott 
+15 3 4 3 0 Fencing Coach <b>Battlecry:</b> The next time you use your Hero Power, it costs (2) less. Good fencers make good neighbors, right? Howard Lyon 
+15 3 4 2 6 Wyrmrest Agent <b>Battlecry:</b> If you're holding a Dragon, gain +1 Attack and <b>Taunt</b>. Keeping tabs on the Grand Tournament is priority #1 for the five mighty Dragonflights! Jeff Easley 
+15 4 4 3 0 Master of Ceremonies <b>Battlecry:</b> If you have a minion with <b>Spell Damage</b>, gain +2/+2. Goes by "MC ElfyElf". Jesper Ejsing 
+15 4 4 6 0 Grand Crusader <b>Battlecry:</b> Add a random Paladin card to your hand. A veteran of a number of crusades, she is a force for light and goodness.  Her latest crusade is against goblin telemarketers. Todd Lockwood 
+15 1 4 5 0 Kvaldir Raider <b>Inspire:</b> Gain +2/+2. Coming soon... to a tuskarr village near you! Trent Kaniuga 
+15 4 4 10 0 Frost Giant Costs (1) less for each time you used your Hero Power this game. Don't ask him about the beard.  JUST DON'T. Greg Staples 
+15 4 4 4 0 Crowd Favorite Whenever you play a card with <b>Battlecry</b>, gain +1/+1. The crowd ALWAYS yells lethal. Jakub Kasper 
+15 5 4 4 0 Gormok the Impaler <b>Battlecry:</b> If you have at least 4 other minions, deal 4 damage. Gormok has been giving impaling lessons in a small tent near the tournament grounds.  For only 25g you too could learn the fine art of impaling! Nutthapon Petchthai 
+15 5 4 7 0 Chillmaw <b>Taunt</b>
+<b>Deathrattle:</b> If you're holding a Dragon, deal 3 damage to all minions. Chillmaw keeps trying to ruin the Grand Tournament, and she would've done it too, if it weren't for those dang kids! Raymond Swanland 
+15 5 4 6 0 Bolf Ramshield Whenever your hero takes damage, this minion takes it instead. Bolf keeps coming in 2nd at the Grand Tournament.  It might be his year this year, if Lebron doesn't enter. Wayne Reynolds 
+15 5 4 9 0 Icehowl <b>Charge</b>
+Can't attack heroes. This massive yeti just closes his eyes and charges at the nearest target.  The nearest Target is a couple blocks away and has sick deals on skateboards. John Polidora 
+15 5 4 5 0 Nexus-Champion Saraad <b>Inspire:</b> Add a random spell to your hand. The ethereals have their own jousting tournament, and Saraad is the reigning champion.  Also he won the ethereal hot dog eating contest. Marcleo Vignali 
+15 5 4 6 0 The Skeleton Knight <b>Deathrattle:</b> Reveal a minion in each deck. If yours costs more, return this to your hand. Apparently it really was just a flesh wound. Mike Sass 
+15 5 4 3 0 Fjola Lightbane Whenever <b>you</b> target this minion with a spell, gain <b>Divine Shield.</b> LOVES being called "the wonder twins". Mark Zug 
+15 4 4 6 10 Sea Reaver When you draw this, deal 1 damage to your minions. A little better than Sea Minus Reaver. James Ryman 
+15 5 4 3 0 Eydis Darkbane Whenever <b>you</b> target this minion with a spell, deal 3 damage to a random enemy. HATES being called "the wonder twins". Ben Thompson 
+15 5 4 6 0 Justicar Trueheart <b>Battlecry:</b> Replace your starting Hero Power with a better one. It's like putting racing stripes and a giant spoiler on your hero power. Jomaro Kindred 
+15 1 4 1 0 Gadgetzan Jouster <b>Battlecry:</b> Reveal a minion in each deck. If yours costs more, gain +1/+1. It's not HER fault you didn't put a spinning saw blade on your horse. Skan Srisuwan 
+14 1 5 5 5 Solemn Vigil Draw 2 cards. Costs (1) less for each minion that died this turn. Each year, folk gather in front of Blackrock Mountain to mourn those who were mind-controlled into the lava. Jaime Jones 
+14 3 4 3 4 Flamewaker After you cast a spell, deal 2 damage randomly split among all enemies. Flamewakers HATE being confused for Flamewalkers. They just wake up fire, they don’t walk on it. Walking on fire is CRAZY. Alex Horley Orlandelli 
+14 1 5 5 4 Dragon's Breath Deal $4 damage. Costs (1) less for each minion that died this turn. Dragons breathe fire, sure, but did you know they can also breathe Cotton Candy?  It's harder to give them a reason to do that, though. Mauricio Herrera 
+14 1 4 1 6 Twilight Whelp <b>Battlecry:</b> If you're holding a Dragon, gain +2 Health. The twilight whelps are basically magic-vampires. Despite this, they are not a reference to any popular series of novels. Sam Nielson 
+14 3 5 3 9 Demonwrath Deal $2 damage to all non-Demon minions. Demons are not angry most of the time. You have to play this card in order to really bring it out of them. Raymond Swanland 
+14 1 4 3 9 Imp Gang Boss Whenever this minion takes damage, summon a 1/1 Imp. His imp gang likes to sneak into Stormwind to spraypaint "Ragnaros Rulez" on the Mage Tower. Steve Prescott 
+14 1 5 2 7 Gang Up Choose a minion. Shuffle 3 copies of it into your deck. If you are thinking about visiting Moonbrook, you better roll deep. Jim Nelson 
+14 3 4 5 7 Dark Iron Skulker <b>Battlecry:</b> Deal 2 damage to all undamaged enemy minions. He loves skulking. He skulks after hours just for the joy of it, but his friends are pretty worried he'll get burnt out. Eric Braddock 
+14 3 4 9 2 Volcanic Lumberer <b>Taunt</b>
+Costs (1) less for each minion that died this turn. The roots, the roots, the roots is on fire! Trent Kaniuga 
+14 1 4 3 2 Druid of the Flame <b>Choose One</b> - Transform into a 5/2 minion; or a 2/5 minion. Druids who fought too long in Northrend were easily seduced by Ragnaros; a mug of hot chocolate was generally all it took. Stanley Lau 
+14 3 5 2 8 Lava Shock Deal $2 damage.
+Unlock your <b>Overloaded</b> Mana Crystals. Chocolate lava cake is shockingly delicious. Zoltan Boros 
+14 1 4 4 8 Fireguard Destroyer <b>Battlecry:</b> Gain 1-4 Attack. <b>Overload:</b> (1) Ragnaros interviews hundreds of Fire Elementals for the position of "Destroyer" but very few have what it takes. Paul Mafayon 
+14 1 5 2 3 Quick Shot Deal $3 damage.
+If your hand is empty, draw a card. Han shot first. Jonboy Meyers 
+14 3 4 4 3 Core Rager <b>Battlecry:</b> If your hand is empty, gain +3/+3. It takes a special kind of hunter to venture deep into a firey lava pit and convince a monster who lives there to come home and be a cuddly housepet. Jomaro Kindred 
+14 3 5 2 10 Revenge Deal $1 damage to all minions. If you have 12 or less Health, deal $3 damage instead. This is better than Arcane Explosion, so I guess warriors are finally getting revenge on mages for Mortal Strike being worse than Fireball. Ben Olson 
+14 1 4 4 10 Axe Flinger Whenever this minion takes damage, deal 2 damage to the enemy hero. Once a lowly "Stick Flinger", he's been relentless on the path to his ultimate dream: "Tauren Flinger". Efrem Palacios 
+14 3 5 2 6 Resurrect Summon a random friendly minion that died this game. I walked into the dungeon and noticed a slain adventurer. In his final moments, he had scrawled out a message in the dust on the wall beside him. Two words: "rez plz" Luke Mancini 
+14 3 4 5 5 Dragon Consort <b>Battlecry:</b> The next Dragon you play costs (2) less. Everybody wants someone to snuggle with. Even giant armored scaly draconic beasts of destruction. Raymond Swanland 
+14 3 4 5 0 Grim Patron Whenever this minion survives damage, summon another Grim Patron. If you love getting your face punched, come to the Grim Guzzler! Bobby Chiu 
+14 1 4 4 0 Dragonkin Sorcerer Whenever <b>you</b> target this minion with a spell, gain +1/+1. Dragonkin Sorcerers be all "I'm a wizard" and everyone else be all "daaaaang". Edouard Guiton & Stuido HIVE 
+14 3 4 1 0 Dragon Egg Whenever this minion takes damage, summon a 2/1 Whelp. Think of them as bullets for your dragon gun. Jaemin Kim 
+14 1 4 6 0 Drakonid Crusher <b>Battlecry:</b> If your opponent has 15 or less Health, gain +3/+3. Drakonids were created to have all the bad parts of a dragon in the form of a humaniod. But, like, why? Slawomir Maniak 
+14 1 4 6 0 Volcanic Drake Costs (1) less for each minion that died this turn. Volcanic Drakes breathe lava instead of fire. The antacid vendor at Thorium Point does a brisk business with them. Lucas Graciano 
+14 1 4 4 0 Hungry Dragon <b>Battlecry:</b> Summon a random 1-Cost minion for your opponent. Hungry Hungry Dragon is NOT a fun game. John Polidora 
+14 5 4 9 0 Majordomo Executus <b>Deathrattle:</b> Replace your hero with Ragnaros, the Firelord. You thought Executus turned you into Ragnaros, but really Ragnaros was in you the whole time. Alex Horley Orlandelli 
+14 5 4 6 0 Emperor Thaurissan At the end of your turn, reduce the Cost of cards in your hand by (1). His second greatest regret is summoning an evil Firelord who enslaved his entire people. Wayne Reynolds 
+14 5 4 7 0 Rend Blackhand <b>Battlecry:</b> If you're holding a Dragon, destroy a <b>Legendary</b> minion. Rend believes he is the True Warchief of the Horde and he keeps editing the wikipedia page for "Warchief of the Horde" to include his picture. Alex Horley 
+14 5 4 9 0 Nefarian <b>Battlecry:</b> Add 2 random spells to your hand <i>(from your opponent's class)</i>. They call him "Blackwing" because he's a black dragon...... and he's got wings. Ruan Jia 
+14 5 4 8 0 Chromaggus Whenever you draw a card, put another copy into your hand. Left head and right head can never agree about what to eat for dinner, so they always end up just eating ramen again. Todd Lockwood 
+14 1 4 3 0 Blackwing Technician <b>Battlecry:</b> If you're holding a Dragon, gain +1/+1.  This is who you go to when your Blackwing needs a tune up. Don't go to a cut rate Blackwing tune up shop! Matt Dixon 
+14 1 4 5 0 Blackwing Corruptor <b>Battlecry</b>: If you're holding a Dragon, deal 3 damage. He got his name when he gave Blackwing some comic books and rock & roll records. Greg Staples 
+2 1 4 1 0 Goldshire Footman <b>Taunt</b> If 1/2 minions are all that is defending Goldshire, you would think it would have been overrun years ago. Donato Giancola 
+3 1 4 5 0 Fen Creeper <b>Taunt</b> He used to be called Bog Beast, but it confused people because he wasn't an actual beast.   Boom, New Name! Monica Langlois 
+2 1 5 5 6 Holy Nova Deal $2 damage to all enemies. Restore #2 Health to all friendly characters. If the Holy Light forsakes you, good luck casting this spell.  Also, you're probably a jerk. Luca Zontini 
+2 1 5 10 6 Mind Control Take control of an enemy minion. Nominated as "Spell Most Likely to Make Your Opponent Punch the Wall." Sean O’Daniels 
+3 1 5 1 6 Inner Fire Change a minion's Attack to be equal to its Health. Good idea: Buffing your minions.  Bad idea: Starting a conversation in the Barrens. Steve Prescott 
+2 2 5 1 6 Holy Smite Deal $2 damage. It doesn't matter how pious you are.  Everyone needs a good smiting now and again. Steve Ellis 
+2 1 5 1 6 Mind Vision Put a copy of a random card in your opponent's hand into your hand. I see what you did there. Michael Komarck 
+2 2 5 1 6 Power Word: Shield Give a minion +2 Health.
+Draw a card. Sure the extra protection is nice, but the shield really reduces visibility. Jessica Jung 
+2 2 5 1 2 Claw Give your hero +2 Attack this turn and 2 Armor. The claw decides who will stay and who will go. Dany Orizio 
+2 2 5 3 2 Healing Touch Restore #8 Health. 8 Health, no waiting. Cyril Van Der Haegen 
+2 1 5 0 2 Moonfire Deal $1 damage. "Cast Moonfire, and never stop." - How to Be a Druid, Chapter 5, Section 3 Richard Wright 
+2 2 5 2 2 Mark of the Wild Give a minion <b>Taunt</b> and +2/+2.<i> (+2 Attack/+2 Health)</i> Not to be confused with Jim of the Wild. Brad Vancata 
+2 1 5 3 2 Savage Roar Give your characters +2 Attack this turn. What do they roar? Nobody can quite tell, but it sounds like "Elephant Macho Breeze".  It's probably not that, though. Grace Liu 
+2 1 5 4 2 Swipe Deal $4 damage to an enemy and $1 damage to all other enemies. When a bear rears back and extends his arms, he's about to Swipe!  ... or hug. Sean O’Daniels 
+2 2 5 2 2 Wild Growth Gain an empty Mana Crystal. Grow your own mana crystals with this Mana Crystal Growth Kit, only 39.99! James Ryman 
+2 2 5 4 4 Polymorph Transform a minion into a 1/1 Sheep. There was going to be a pun in this flavor text, but it just came out baa-d. Vance Kovacs 
+2 2 5 3 4 Arcane Intellect Draw 2 cards. Playing this card makes you SMARTER.  And let's face it: we could all stand to be a little smarter. Dave Berggren 
+2 1 5 2 4 Frostbolt Deal $3 damage to a character and <b>Freeze</b> it. It is customary to yell "Chill out!" or "Freeze!" or "Ice ice, baby!" when you play this card. Steve Ellis 
+2 2 5 2 4 Arcane Explosion Deal $1 damage to all enemy minions. This spell is much better than Arcane Implosion. Howard Lyon 
+2 1 5 3 4 Frost Nova <b>Freeze</b> all enemy minions. Hey man, that's cold.  Literally and metaphorically. Josh Tallman 
+2 1 5 1 4 Mirror Image Summon two 0/2 minions with <b>Taunt</b>. Oh hey it's Mirror Image! !egamI rorriM s'ti yeh hO Jim Nelson 
+3 3 5 6 4 Blizzard Deal $2 damage to all enemy minions and <b>Freeze</b> them. This spell can be very Entertaining. Chris Seaman 
+2 2 5 4 4 Fireball Deal $6 damage. This spell is useful for burning things.  If you're looking for spells that toast things, or just warm them a little, you're in the wrong place. Ralph Horsley 
+3 1 5 1 4 Ice Lance <b>Freeze</b> a character. If it was already <b>Frozen</b>, deal $4 damage instead. The trick is not to break the lance.  Otherwise, you have "Ice Pieces."  Ice Pieces aren't as effective. Alex Horley Orlandelli 
+2 1 5 7 4 Flamestrike Deal $4 damage to all enemy minions. When the ground is on fire, you should <i>not</i> stop, drop, and roll. Romain De Santi 
+2 1 4 4 4 Water Elemental <b>Freeze</b> any character damaged by this minion. Don't summon a water elemental at a party.  It'll dampen the mood. John Avon 
+2 2 5 1 8 Frost Shock Deal $1 damage to an enemy character and <b>Freeze</b> it. FROST SHOCK! Alex Horley Orlandelli 
+3 3 5 2 8 Ancestral Spirit Give a minion "<b>Deathrattle:</b> Resummon this minion." It was just a flesh wound. Zoltan & Gabor 
+2 2 5 2 8 Windfury Give a minion <b>Windfury</b>. Windfury is like Earthfury and Firefury, but more light and airy. Justin Sweet 
+2 2 5 0 8 Ancestral Healing Restore a minion to full Health and give it <b>Taunt</b>. I personally prefer some non-ancestral right-the-heck-now healing, but maybe that is just me. Dan Scott 
+2 1 4 6 8 Fire Elemental <b>Battlecry:</b> Deal 3 damage. He can never take a bath. Ewww. Ralph Horsley 
+2 2 5 1 8 Rockbiter Weapon Give a friendly character +3 Attack this turn. This would be real handy if your enemy is made of rock. Alex Horley Orlandelli 
+2 1 5 5 8 Bloodlust Give your minions +3 Attack this turn. blaarghghLLGHRHARAAHAHHH!! Luca Zontini 
+3 4 5 3 8 Far Sight Draw a card. That card costs (3) less. Drek'thar can't see, but he can <i>see</i>. You know what I mean? It's ok if you don't. Lars Grant-West 
+2 2 5 3 9 Shadow Bolt Deal $4 damage to a minion. It’s a Bolt.   It's made out of Shadow.   What more do you need to know! Dave Allsop 
+3 1 4 1 9 Blood Imp <b>Stealth</b>. At the end of your turn, give another random friendly minion +1 Health. Imps are content to hide and viciously taunt everyone nearby. Bernie Kang 
+2 2 5 3 9 Drain Life Deal $2 damage. Restore #2 Health to your hero. "I've just sucked one year of your life away." Alex Horley Orlandelli 
+2 2 5 4 9 Hellfire Deal $3 damage to ALL characters. It's spells like these that make it hard for Warlocks to get decent help. Chippy 
+2 1 5 1 9 Corruption Choose an enemy minion. At the start of your turn, destroy it. It starts with stealing a pen from work, and before you know it, BOOM!  Corrupted! Wayne Reynolds 
+2 1 4 6 9 Dread Infernal <b>Battlecry:</b> Deal 1 damage to ALL other characters. "INFERNOOOOOOOOOO!" - Jaraxxus, Eredar Lord of the Burning Legion Zoltan & Gabor 
+2 2 4 1 9 Voidwalker <b>Taunt</b> No relation to "The Voidsteppers", the popular Void-based dance troupe. Alex Horley Orlandelli 
+2 2 5 0 7 Backstab Deal $2 damage to an undamaged minion. It's funny how often yelling "Look over there!" gets your opponent to turn around. Michael Sutfin 
+3 1 5 1 7 Cold Blood Give a minion +2 Attack. <b>Combo:</b> +4 Attack instead. "I'm cold blooded, check it and see!" Alex Horley Orlandelli 
+2 2 5 1 7 Deadly Poison Give your weapon +2 Attack. Rogues guard the secrets to poison-making carefully, lest magi start incorporating poison into their spells.  Poisonbolt? Rain of Poison?  Poison Elemental?  Nobody wants that. Trevor Jacobs 
+2 2 5 1 7 Sinister Strike Deal $3 damage to the enemy hero. There's something about this strike that just feels off.  Sinister, even. Frank Cho 
+2 2 5 5 7 Assassinate Destroy an enemy minion. If you don't want to be assassinated, move to the Barrens and change your name. Good luck! Glenn Rane 
+2 1 5 7 7 Sprint Draw 4 cards. Rogues are not good joggers. James Zhang 
+2 1 7 5 7 Assassin's Blade null Guaranteed to have been owned by a real assassin.   Certificate of authenticity included. Brian Huang 
+2 1 5 0 3 Hunter's Mark Change a minion's Health to 1. Never play 'Hide and Go Seek' with a Hunter. Jimmy Lo 
+2 2 5 1 5 Blessing of Might Give a minion +3 Attack. "As in, you MIGHT want to get out of my way." - Toad Mackle, recently buffed. Zoltan Boros 
+2 1 4 7 5 Guardian of Kings <b>Battlecry:</b> Restore 6 Health to your hero. Holy beings from the beyond are so cliché! E.M. Gist 
+2 2 5 2 5 Holy Light Restore #6 Health. If you are often bathed in Holy Light, you should consider wearing sunscreen. Zoltan & Gabor 
+2 2 7 1 5 Light's Justice null Prince Malchezaar was a collector of rare weapons. He'd animate them and have them dance for him. Glenn Rane 
+2 1 5 4 5 Blessing of Kings Give a minion +4/+4. <i>(+4 Attack/+4 Health)</i> Given the number of kings who have been assassinated, are you sure you want their blessing? Lucas Graciano 
+2 1 5 4 5 Consecration Deal $2 damage to all enemies. Consecrated ground glows with Holy energy.  But it smells a little, too. Vance Kovacs 
+2 2 5 4 5 Hammer of Wrath Deal $3 damage.
+Draw a card. A good paladin has many tools.  Hammer of Wrath, Pliers of Vengeance, Hacksaw of Justice, etc. Efrem Palacios 
+2 1 7 4 5 Truesilver Champion Whenever your hero attacks, restore 2 Health to it. It Slices, it Dices. You can cut a tin can with it. (But you wouldn't want to.) Ryan Sook 
+2 2 5 3 10 Charge Give a friendly minion +2 Attack and <b>Charge</b>. "Guys! Guys! Slow down!" - some kind of non-warrior minion Alex Horley Orlandelli 
+3 1 5 2 10 Rampage Give a damaged minion +3/+3. Minion get ANGRY.   Minion SMASH! Jonboy Meyers 
+2 2 5 2 10 Heroic Strike Give your hero +4 Attack this turn. Really, if you're a hero, this is <i>every</i> strike. Jonboy Meyers 
+2 2 7 2 10 Fiery War Axe null During times of tranquility and harmony, this weapon was called by its less popular name, Chilly Peace Axe. Lucas Graciano 
+2 2 5 1 10 Execute Destroy a damaged enemy minion. It's okay, he deserved it. Dany Orizio 
+2 1 7 5 10 Arcanite Reaper null No… actually you should fear the Reaper. Stefan Kopinski 
+2 1 5 2 10 Cleave Deal $2 damage to two random enemy minions. Hey you two…could you stand next to each other for a second… Phroilan Gardner 
+3 1 4 3 0 Earthen Ring Farseer <b>Battlecry:</b> Restore 3 Health. He can see really far, and he doesn't use a telescope like those filthy pirates. Alex Horley Orlandelli 
+2 2 4 3 0 Magma Rager null He likes to think he is powerful, but pretty much anyone can solo Molten Core now. Matt Gaser 
+2 2 4 4 0 Oasis Snapjaw null His dreams of flying and breathing fire like his idol will never be realized. Ittoku 
+2 2 4 2 0 River Crocolisk null Edward "Lefty" Smith tried to make luggage out of a river crocolisk once. Daren Bader 
+2 1 4 2 0 Frostwolf Grunt <b>Taunt</b> Grunting is what his father did and his father before that.   It's more than just a job. Richie Marella 
+2 2 4 3 0 Raid Leader Your other minions have +1 Attack. "That's a 50 DKP minus!" Phill Gonzales 
+2 2 4 3 0 Wolfrider <b>Charge</b> Orcish raiders ride wolves because they are well adapted to harsh environments, and because they are soft and cuddly. Dany Orizio 
+2 1 4 3 0 Ironfur Grizzly <b>Taunt</b> "Bear Carcass 1/10" Lars Grant-West 
+2 1 4 3 0 Silverback Patriarch <b>Taunt</b> He likes to act like he's in charge, but the silverback matriarch actually runs things. Daren Bader 
+2 1 4 4 0 Stormwind Knight <b>Charge</b> They're still embarassed about "The Deathwing Incident". Ladronn 
+2 1 4 3 0 Ironforge Rifleman <b>Battlecry:</b> Deal 1 damage. "Ready! Aim! Drink!" Tooth 
+2 1 4 2 0 Kobold Geomancer <b>Spell Damage +1</b> In the old days, Kobolds were the finest candle merchants in the land. Then they got pushed too far... Gabor Szikszai 
+3 1 4 1 0 Southsea Deckhand Has <b>Charge</b> while you have a weapon equipped. Pirates are into this new fad called "Planking". Dan Brereton 
+2 1 4 4 0 Gnomish Inventor <b>Battlecry:</b> Draw a card. She's never quite sure what she's making, she just knows it's AWESOME! Court Jones 
+2 1 4 5 0 Stormpike Commando <b>Battlecry:</b> Deal 2 damage. The Stormpike Commandos are demolition experts.  They also bake a mean cupcake. Kev Walker 
+3 1 4 5 0 Silver Hand Knight <b>Battlecry:</b> Summon a 2/2 Squire. It's good to be a knight.   Less so to be one's squire. Matt Starbuck 
+2 1 4 6 0 Archmage <b>Spell Damage +1</b> You earn the title of Archmage when you can destroy anyone who calls you on it. Steve Ellis 
+3 3 4 7 0 Ravenholdt Assassin <b>Stealth</b> Just mail him a package with a name and 10,000 gold.  He'll take care of the rest. Ralph Horsley 
+2 1 4 6 0 Lord of the Arena <b>Taunt</b> He used to be a 2100+ rated arena player, but that was years ago and nobody can get him to shut up about it. E.M. Gist 
+2 2 4 1 0 Murloc Raider null Mrrraggglhlhghghlgh, mrgaaag blarrghlgaahahl mrgggg glhalhah a bghhll graggmgmg Garrosh mglhlhlh mrghlhlhl!! Dan Scott 
+3 1 4 1 0 Young Dragonhawk <b>Windfury</b> They were the inspiration for the championship Taurenball team: The Dragonhawks. Greg Hildebrandt 
+2 2 4 1 0 Stonetusk Boar <b>Charge</b> This card is boaring. Howard Lyon 
+2 2 4 2 0 Bloodfen Raptor null "Kill 30 raptors." - Hemet Nesingwary Dan Brereton 
+2 1 4 2 0 Bluegill Warrior <b>Charge</b> He just wants a hug.   A sloppy... slimy... hug. Jakub Kasper 
+2 2 4 4 0 Sen'jin Shieldmasta <b>Taunt</b> Sen'jin Villiage is nice, if you like trolls and dust. Brian Despain 
+3 3 4 3 0 Injured Blademaster <b>Battlecry:</b> Deal 4 damage to HIMSELF. He claims it is an old war wound, but we think he just cut himself shaving. Samwise 
+2 1 4 4 0 Chillwind Yeti null He always dreamed of coming down from the mountains and opening a noodle shop, but he never got the nerve. Mauro Cascioli 
+2 1 4 7 0 War Golem null Golems are not afraid, but for some reason they still run when you cast Fear on them.  Instinct, maybe?  A desire to blend in? Dave Kendall 
+2 1 4 5 0 Booty Bay Bodyguard <b>Taunt</b> You can hire him... until someone offers him enough gold to turn on you. Matt Cavotta 
+3 1 4 1 0 Abusive Sergeant <b>Battlecry:</b> Give a minion +2 Attack this turn. ADD ME TO YOUR DECK, MAGGOT! Luca Zontini 
+2 1 4 1 0 Elven Archer <b>Battlecry:</b> Deal 1 damage. Don't bother asking her out on a date.  She'll shoot you down. Steve Prescott 
+2 1 4 3 0 Razorfen Hunter <b>Battlecry:</b> Summon a 1/1 Boar. Someone did mess with Tuskerr once.  ONCE. Clint Langley 
+2 1 4 4 0 Ogre Magi <b>Spell Damage +1</b> Training Ogres in the art of spellcasting is a questionable decision. James Ryman 
+2 2 4 6 0 Boulderfist Ogre null "ME HAVE GOOD STATS FOR THE COST" Brian Despain 
+2 1 4 7 0 Core Hound null You don’t tame a Core Hound. You just train it to eat someone else before it eats you. E.M. Gist 
+3 1 4 2 0 Ironbeak Owl <b>Battlecry:</b> <b>Silence</b> a minion. Their wings are silent but their screech is... whatever the opposite of silent is. Trevor Jacobs 
+2 2 4 6 0 Reckless Rocketeer <b>Charge</b> One Insane Rocketeer.   One Rocket full of Explosives.   Infinite Fun. John Polidora 
+3 1 4 5 0 Spiteful Smith <b>Enrage:</b> Your weapon has +2 Attack. She'll craft you a sword, but you'll need to bring her 5 Steel Ingots, 3 Motes of Earth, and the scalp of her last customer. Justin Sweet 
+2 1 4 7 0 Stormwind Champion Your other minions have +1/+1. When Deathwing assaulted the capital, this soldier was the only member of his squad to survive. Now he's all bitter and stuff. Doug Alexander 
+2 1 4 5 0 Frostwolf Warlord <b>Battlecry:</b> Gain +1/+1 for each other friendly minion on the battlefield. The Frostwolves are locked in combat with the Stormpike Expedition over control of Alterac Valley.  Every attempt at peace-talks has ended with Captain Galvangar killing the mediator. James Ryman 
+3 1 4 5 0 Venture Co. Mercenary Your minions cost (3) more. No Job is too big.  No fee is too big. John Polidora 
+3 1 4 0 0 Wisp null If you hit an Eredar Lord with enough Wisps, it will explode.   But why? Malcolm Davis 
+2 1 4 8 2 Ironbark Protector <b>Taunt</b> I <i>dare</i> you to attack Darnassus. Dave Allsop 
+3 3 5 2 7 Blade Flurry Destroy your weapon and deal its damage to all enemies. "Look, it's not just about waving daggers around really fast.  It's a lot more complicated than that." - Shan, Rogue Trainer Hideaki Takamura 
+2 2 5 2 6 Shadow Word: Pain Destroy a minion with 3 or less Attack. A step up from a spell cast by many beginning acolytes: "Shadow Word: Annoy". Raymond Swanland 
+2 2 4 1 6 Northshire Cleric Whenever a minion is healed, draw a card. They help the downtrodden and distressed.  Also they sell cookies. Terese Nielsen 
+2 1 5 2 6 Divine Spirit Double a minion's Health. Double the trouble. Double the fun! Jim Pavelec 
+2 1 4 5 3 Starving Buzzard Whenever you summon a Beast, draw a card. If you feed him, he loses his whole <i>identity</i>. Bernie Kang 
+2 1 4 5 0 Darkscale Healer <b>Battlecry:</b> Restore 2 Health to all friendly characters. Healing is just something she does in her free time.  It's more of a hobby really. Jesper Ejsing 
+2 2 4 4 3 Houndmaster <b>Battlecry:</b> Give a friendly Beast +2/+2 and <b>Taunt</b>. "Who let the dogs out?" he asks.  It's rhetorical. Dan Brereton 
+2 2 4 1 3 Timber Wolf Your other Beasts have +1 Attack. Other beasts totally dig hanging out with timber wolves. Malcolm Davis 
+2 1 4 5 3 Tundra Rhino Your Beasts have <b>Charge</b>. Tundra rhinos are often mistaken for kodos.  Or am I mistaken? Lars Grant-West 
+2 2 5 4 3 Multi-Shot Deal $3 damage to two random enemy minions. You see, it's all about <i>throughput</i>. Benjamin Zhang 
+2 2 5 1 3 Tracking Look at the top three cards of your deck. Draw one and discard the others. For the person who just cannot decide what card to put into a deck! Mauro Cascioli 
+2 2 5 1 3 Arcane Shot Deal $2 damage. Magi conjured arcane arrows to sell to hunters, until hunters learned just enough magic to do it themselves.  The resulting loss of jobs sent Stormwind into a minor recession. Luca Zontini 
+3 4 7 7 3 Gladiator's Longbow Your hero is <b>Immune</b> while attacking. The longbow allows shots to be fired from farther away and is useful for firing on particularly odorous targets. Peter C. Lee 
+2 2 5 2 6 Mind Blast Deal $5 damage to the enemy hero. This spell blasts you directly in the MIND. Dave Allsop 
+3 3 4 1 0 Lightwarden Whenever a character is healed, gain +2 Attack. She’s smaller than her sisters Mediumwarden and Heavywarden. Erik Ko 
+3 5 4 6 0 The Black Knight <b>Battlecry:</b> Destroy an enemy minion with <b>Taunt</b>. He was sent by the Lich King to disrupt the Argent Tournament.   We can pretty much mark that a failure. Alex Horley Orlandelli 
+3 3 4 1 0 Young Priestess At the end of your turn, give another random friendly minion +1 Health. She can't wait to learn Power Word: Fortitude Rank 2. Vance Kovacs 
+3 4 4 3 0 Big Game Hunter <b>Battlecry:</b> Destroy a minion with an Attack of 7 or more. Mere devilsaurs no longer excite him.  Soon he'll be trying to catch Onyxia with only a dull Krol Blade. Chris Seaman 
+3 3 4 3 0 Alarm-o-Bot At the start of your turn, swap this minion with a random one in your hand. WARNING.  WARNING.  WARNING. Sean O’Daniels 
+3 1 4 3 0 Acolyte of Pain Whenever this minion takes damage, draw a card. He trained when he was younger to be an acolyte of joy, but things didn’t work out like he thought they would. Dave Kendall 
+3 1 4 1 0 Argent Squire <b>Divine Shield</b> "I solemnly swear to uphold the Light, purge the world of darkness, and to eat only burritos." - The Argent Dawn Oath Zoltan & Gabor 
+3 3 4 1 0 Angry Chicken <b>Enrage:</b> +5 Attack. There is no beast more frightening (or ridiculous) than a fully enraged chicken. Mike Sass 
+3 1 4 1 0 Worgen Infiltrator <b>Stealth</b> If you want to stop a worgen from infiltrating, just yell, "No! Bad boy!" Raymond Swanland 
+2 2 4 1 0 Voodoo Doctor <b>Battlecry:</b> Restore 2 Health. Voodoo is an oft-misunderstood art. But it <i>is</i> art. Karl Richardson 
+3 5 4 2 0 Bloodmage Thalnos <b>Spell Damage +1</b>. <b>Deathrattle:</b> Draw a card. He's in charge of the Annual Scarlet Monastery Blood Drive! Alex Horley Orlandelli 
+3 5 4 3 0 King Mukla <b>Battlecry:</b> Give your opponent 2 Bananas. King Mukla wanders Jaguero Isle, searching for love. Sunny Gho 
+2 2 4 2 0 Novice Engineer <b>Battlecry:</b> Draw a card. "Half of this class will not graduate… since they'll have been turned to chickens." - Tinkmaster Overspark, teaching Gizmos 101. Karl Richardson 
+3 5 4 6 0 Sylvanas Windrunner <b>Deathrattle:</b> Take control of a random enemy minion. Sylvanas was turned into the Banshee Queen by Arthas, but he probably should have just killed her because it just pissed her off. Glenn Rane 
+3 1 4 3 0 Jungle Panther <b>Stealth</b> Stranglethorn is a beautiful place to visit, but you wouldn't want to live there. Jaemin Kim 
+2 1 4 3 0 Shattered Sun Cleric <b>Battlecry:</b> Give a friendly minion +1/+1. They always have a spare flask of Sunwell Energy Drink™! Doug Alexander 
+3 1 4 3 0 Scarlet Crusader <b>Divine Shield</b> Never wash your whites with a Scarlet Crusader. Gonzalo Ordonez 
+3 1 4 3 0 Thrallmar Farseer <b>Windfury</b> He's stationed in the Hellfire Peninsula, but he's hoping for a reassignment closer to Orgrimmar, or really anywhere the ground is less on fire. Efrem Palacios 
+3 1 4 4 0 Silvermoon Guardian <b>Divine Shield</b> The first time they tried to guard Silvermoon against the scourge, it didn’t go so well… Phroilan Gardner 
+2 1 4 4 0 Dragonling Mechanic <b>Battlecry:</b> Summon a 2/1 Mechanical Dragonling. She is still working on installing the rocket launcher add-on for Mr. Bitey. Warren Mahy 
+3 1 4 5 0 Stranglethorn Tiger <b>Stealth</b> The wonderful thing about tigers is tigers are wonderful things! Alex Horley Orlandelli 
+3 1 4 1 0 Leper Gnome <b>Deathrattle:</b> Deal 2 damage to the enemy hero. He really just wants to be your friend, but the constant rejection is starting to really get to him. Glenn Rane 
+3 3 4 6 0 Sunwalker <b>Taunt</b>
+<b>Divine Shield</b> She doesn’t ACTUALLY walk on the Sun.  It's just a name.  Don’t worry! Andrea Uderzo 
+3 1 4 6 0 Windfury Harpy <b>Windfury</b> Harpies are not pleasant sounding.  That's the nicest I can put it. Luke Mancini 
+3 3 4 4 0 Twilight Drake <b>Battlecry:</b> Gain +1 Health for each card in your hand. Twilight drakes feed on Mystical Energy.  And Tacos. Jaemin Kim 
+3 3 4 3 0 Questing Adventurer Whenever you play a card, gain +1/+1. "Does anyone have some extra Boar Pelts?" Attila Adorjany 
+3 3 4 2 0 Ancient Watcher Can't attack. Why do its eyes seem to follow you as you walk by? Richard Wright 
+3 1 4 4 0 Dark Iron Dwarf <b>Battlecry:</b> Give a minion +2 Attack this turn. Guardians of Dark Iron Ore.  Perhaps the most annoying ore, given where you have to forge it. Scott Hampton 
+3 1 4 4 0 Spellbreaker <b>Battlecry:</b> <b>Silence</b> a minion. Spellbreakers can rip enchantments from magic-wielders.  The process is painless and can be performed on an outpatient basis. Matt Cavotta 
+3 1 4 2 0 Youthful Brewmaster <b>Battlecry:</b> Return a friendly minion from the battlefield to your hand. His youthful enthusiasm doesn’t always equal excellence in his brews.   Don’t drink the Mogu Stout! Wei Wang 
+3 3 4 3 0 Coldlight Oracle <b>Battlecry:</b> Each player draws 2 cards. They can see the future.   In that future both players draw more cards.   Spoooky. Steve Prescott 
+3 3 4 2 0 Mana Addict Whenever you cast a spell, gain +2 Attack this turn. She’s trying to kick the habit, but still takes some mana whenever she has a stressful day. Hideaki Takamura 
+3 1 4 4 0 Ancient Brewmaster <b>Battlecry:</b> Return a friendly minion from the battlefield to your hand. Most pandaren say his brew tastes like yak.  But apparently that's a compliment. Bernie Kang 
+3 3 4 2 0 Sunfury Protector <b>Battlecry:</b> Give adjacent minions <b>Taunt</b>. She carries a shield, but only so she can give it to someone she can stand behind. James Ryman 
+3 3 4 2 0 Crazed Alchemist <b>Battlecry:</b> Swap the Attack and Health of a minion. "You'll <i>love</i> my new recipe!" he says... especially if you're not happy with your current number of limbs. Tom Fleming 
+4 5 4 4 0 Old Murk-Eye <b>Charge</b>. Has +1 Attack for each other Murloc on the battlefield. He's a legend among murlocs.  "Mrghllghghllghg!", they say. Dan Scott 
+2 1 4 2 0 Acidic Swamp Ooze <b>Battlecry:</b> Destroy your opponent's weapon. Oozes love Flamenco.  Don't ask. Chris Rahn 
+3 3 4 6 0 Argent Commander <b>Charge</b>
+<b>Divine Shield</b> The Argent Dawn stands vigilant against the Scourge, as well as people who cut in line at coffee shops. James Ryman 
+3 3 4 2 0 Pint-Sized Summoner The first minion you play each turn costs (1) less. She's quite jealous of the Gallon-Sized Summoner. Ron Spears 
+3 3 4 1 0 Secretkeeper Whenever a <b>Secret</b> is played, gain +1/+1. She promises not to tell anyone about that thing you did last night with that one person. Gonzalo Ordonez 
+3 1 4 2 0 Mad Bomber <b>Battlecry:</b> Deal 3 damage randomly split between all other characters. He's not really all that crazy, he is just not as careful with explosives as he should be. Mike Sass 
+3 5 4 3 0 Tinkmaster Overspark <b>Battlecry:</b> Transform another random minion into a 5/5 Devilsaur or a 1/1 Squirrel. Tinkmaster Overspark nearly lost his Tinker's license after the Great Ironforge Squirrel Stampede of '09. Tom Baxa 
+2 2 4 3 10 Warsong Commander Your <b>Charge</b> minions have +1 Attack. The Warsong clan is <i>such drama</i>. It's really not worth it to become a commander. Wei Wang 
+3 3 4 3 0 Mind Control Tech <b>Battlecry:</b> If your opponent has 4 or more minions, take control of one at random. Mind Control technology is getting better, but that's not saying much. Leo Che 
+3 3 4 3 0 Arcane Golem <b>Charge</b>. <b>Battlecry:</b> Give your opponent a Mana Crystal. Having Arcane golems at home really classes up the place, and as a bonus they are great conversation pieces. Sedhayu Ardian 
+3 4 4 6 6 Cabal Shadow Priest <b>Battlecry:</b> Take control of an enemy minion that has 2 or less Attack. You never know who may be secretly working for the Cabal.... Chippy 
+3 3 4 4 0 Defender of Argus <b>Battlecry:</b> Give adjacent minions +1/+1 and <b>Taunt</b>. You wouldn’t think that Argus would need this much defending.  But it does. Alex Horley Orlandelli 
+3 3 4 6 0 Gadgetzan Auctioneer Whenever you cast a spell, draw a card. He used to run the black market auction house, but there was just too much violence and he had to move. Matt Dixon 
+3 1 4 2 0 Loot Hoarder <b>Deathrattle:</b> Draw a card. Always roll need. Jim Nelson 
+3 3 4 5 0 Abomination <b>Taunt</b>. <b>Deathrattle:</b> Deal 2 damage to ALL characters. Abominations enjoy Fresh Meat and long walks on the beach. Alex Horley Orlandelli 
+3 5 4 2 0 Lorewalker Cho Whenever a player casts a spell, put a copy into the other player’s hand. Lorewalker Cho archives and shares tales from the land of Pandaria, but his favorite story is the one where Joey and Phoebe go on a road trip. Mark Zug 
+3 3 4 3 0 Demolisher At the start of your turn, deal 2 damage to a random enemy. Laying siege isn't fun for anyone.  It's not even all that effective, now that everyone has a flying mount. Raymond Swanland 
+3 3 4 3 0 Coldlight Seer <b>Battlecry:</b> Give ALL other Murlocs +2 Health. The Coldlight murlocs reside in the darkest pits of the Abyssal Depths.  So no, there's no getting away from murlocs. Arthur Gimaldinov 
+3 4 4 12 0 Mountain Giant Costs (1) less for each other card in your hand. His mother said that he was just big boned. Samwise 
+3 5 4 6 0 Cairne Bloodhoof <b>Deathrattle:</b> Summon a 4/5 Baine Bloodhoof. Cairne was killed by Garrosh, so... don't put this guy in a Warrior deck.  It's pretty insensitive. Wayne Reynolds 
+11 5 4 6 0 Gelbin Mekkatorque <b>Battlecry:</b> Summon an AWESOME invention. He's the leader of the gnomes, and an incredible inventor.  He's getting better, too; He turns things into chickens WAY less than he used to. Ludo Lullabi 
+3 5 4 5 0 Leeroy Jenkins <b>Charge</b>. <b>Battlecry:</b> Summon two 1/1 Whelps for your opponent. At least he has Angry Chicken. Gabe from Penny Arcade 
+3 1 5 2 7 Eviscerate Deal $2 damage. <b>Combo:</b> Deal $4 damage instead. There is a high cost to Eviscerating your opponent:  It takes a long time to get blood stains out of leather armor. Ariel Olivetti 
+3 1 5 2 7 Betrayal Force an enemy minion to deal its damage to the minions next to it. Everyone has a price. Gnomes, for example, can be persuaded by stuffed animals and small amounts of chocolate. Lucas Graciano 
+3 1 5 1 7 Conceal Give your minions <b>Stealth</b> until your next turn. Rogues conceal everything but their emotions.  You can't get 'em to shut up about feelings. Steve Hui 
+2 1 5 3 7 Fan of Knives Deal $1 damage to all enemy minions. Draw a card. I wouldn't say I LOVE knives, but I'm definitely a fan. Andrew Robinson 
+3 1 5 1 5 Noble Sacrifice <b>Secret:</b> When an enemy attacks, summon a 2/1 Defender as the new target. We will always remember you, "Defender!" Zoltan & Gabor 
+3 1 4 2 7 Defias Ringleader <b>Combo:</b> Summon a 2/1 Defias Bandit. He stole the deed to town years ago, so technically the town <i>is</i> his. He just calls people Scrub to be mean. Dany Orizio 
+3 1 5 1 5 Eye for an Eye <b>Secret:</b> When your hero takes damage, deal that much damage to the enemy hero. Justice sometimes takes the form of a closed fist into a soft cheek. James Ryman 
+3 3 7 3 7 Perdition's Blade <b>Battlecry:</b> Deal 1 damage. <b>Combo:</b> Deal 2 instead. Perdition's Blade is Ragnaros's back-up weapon while Sulfuras is in the shop. Daren Bader 
+3 3 4 3 7 SI:7 Agent <b>Combo:</b> Deal 2 damage. The agents of SI:7 are responsible for Stormwind's covert activities.  Their duties include espionage, assassination, and throwing surprise birthday parties for the royal family. Chris Moeller 
+3 1 5 1 5 Redemption <b>Secret:</b> When one of your minions dies, return it to life with 1 Health. I am not sure how you get demptioned the first time.  It’s a mystery! Ittoku 
+3 3 5 3 7 Headcrack Deal $2 damage to the enemy hero. <b>Combo:</b> Return this to your hand next turn. When all else fails, nothing beats a swift whack upside the head. James Zhang 
+3 1 5 0 7 Shadowstep Return a friendly minion to your hand. It costs (2) less. Rogue dance troops will sometimes Shadowstep away at the end of a performance.  Crowds love it. Graven Tung 
+3 4 5 0 7 Preparation The next spell you cast this turn costs (3) less. "Be Prepared" - Rogue Motto Clint Langley 
+3 1 5 2 2 Wrath <b>Choose One</b> - Deal $3 damage to a minion; or $1 damage and draw a card. The talk around the Ratchet Inn is that this card is too good and should be a Legendary. Raymond Swanland 
+3 1 5 3 2 Mark of Nature <b>Choose One</b> - Give a minion +4 Attack; or +4 Health and <b>Taunt</b>. Druids call it the "Mark of Nature."  Everyone else calls it "needing a bath." Clint Langley 
+3 1 5 4 2 Soul of the Forest Give your minions "<b>Deathrattle:</b> Summon a 2/2 Treant." "Reforestation" is suddenly a terrifying word. Markus Erdt 
+3 1 5 2 2 Power of the Wild <b>Choose One</b> - Give your minions +1/+1; or Summon a 3/2 Panther. Never look a panther in the eye.  Or is it 'Always look a panther in the eye'?  Well, it's one of those. Steve Tappin 
+3 1 5 1 2 Naturalize Destroy a minion. Your opponent draws 2 cards. Another one bites the dust. Leo Che 
+3 1 4 2 0 Dire Wolf Alpha Adjacent minions have +1 Attack. We are pretty excited about the upcoming release of Dire Wolf Beta, just repost this sign for a chance at a key. John Dickenson 
+3 3 5 5 2 Nourish <b>Choose One</b> - Gain 2 Mana Crystals; or Draw 3 cards. Druids take nourishment from many things: the power of nature, the songbird's chirp, a chocolate cake. Terese Nielsen 
+3 1 4 5 2 Druid of the Claw <b>Choose One -</b> <b>Charge</b>; or +2 Health and <b>Taunt</b>. Cat or Bear?  Cat or Bear?!  I just cannot CHOOSE! Luca Zontini 
+3 3 4 4 2 Keeper of the Grove <b>Choose One</b> - Deal 2 damage; or <b>Silence</b> a minion. These guys just show up and start Keeping your Groves without even asking. Gabor Szikszai 
+2 2 5 0 2 Innervate Gain 2 Mana Crystals this turn only. Some druids still have flashbacks from strangers yelling "Innervate me!!" at them. Doug Alexander 
+3 3 4 3 0 Emperor Cobra Destroy any minion damaged by this minion. The Sholazar Basin is home to a lot of really horrible things. If you're going to visit, wear bug spray.  And plate armor. Lars Grant-West 
+2 1 5 6 2 Starfire Deal $5 damage.
+Draw a card. Balance is important to druids.  This card is perfectly balanced. Alex Horley Orlandelli 
+3 4 4 7 2 Ancient of War <b>Choose One</b> -
++5 Attack; or +5 Health and <b>Taunt</b>. Young Night Elves love to play "Who can get the Ancient of War to Uproot?"  You lose if you get crushed to death. Sean O’Daniels 
+3 1 5 1 8 Lightning Bolt Deal $3 damage. <b>Overload:</b> (1) Lightning Bolt! Lightning Bolt! Lightning Bolt! Daarken 
+3 3 5 3 8 Lava Burst Deal $5 damage. <b>Overload:</b> (2) It's like an ocean of liquid magma in your mouth! Dan Scott 
+3 1 4 1 8 Dust Devil <b>Windfury</b>. <b>Overload:</b> (2) Westfall is full of dust devils. And buzzards. And crazed golems. And pirates. Why does anyone live here? Raymond Swanland 
+2 1 5 0 8 Totemic Might Give your Totems +2 Health. Totem-stomping is no longer recommended. Trent Kaniuga 
+3 1 5 1 8 Earth Shock <b>Silence</b> a minion, then deal $1 damage to it. Earth Shock? Shouldn't it be "Azeroth Shock"? Kevin Chin 
+2 2 5 3 8 Hex Transform a minion into a 0/1 Frog with <b>Taunt</b>. If you Hex a Murloc... it really isn't much of a change, is it? Steve Hui 
+3 1 7 2 8 Stormforged Axe <b>Overload:</b> (1) Yo, that's a nice axe. Nate Bowden 
+3 3 5 3 8 Feral Spirit Summon two 2/3 Spirit Wolves with <b>Taunt</b>. <b>Overload:</b> (2) Spirit wolves are like regular wolves with pom-poms. Clint Langley 
+3 5 4 7 0 Baron Geddon At the end of your turn, deal 2 damage to ALL other characters. Baron Geddon was Ragnaros's foremost lieutenant, until he got FIRED. Ian Ameling 
+3 4 4 5 8 Earth Elemental <b>Taunt</b>. <b>Overload:</b> (3) Nothing beats rock. Dan Scott 
+3 1 5 1 8 Forked Lightning Deal $2 damage to 2 random enemy minions. <b>Overload:</b> (2) If you combine it with Spooned Lightning and Knived Lightning, you have the full dining set. Ralph Horsley 
+3 1 4 3 8 Unbound Elemental Whenever you play a card with <b>Overload</b>, gain +1/+1. Unlike bound elementals, Unbound ones really enjoy a night on the town. Matt Gaser 
+3 3 5 3 8 Lightning Storm Deal $2-$3 damage to all enemy minions. <b>Overload:</b> (2) An umbrella won't be effective, I'm afraid. Christopher Moeller 
+3 3 4 4 4 Ethereal Arcanist If you control a <b>Secret</b> at the end of your turn, gain +2/+2. The ethereals are wrapped in cloth to give form to their non-corporeal bodies. Also because it's nice and soft. Michael Komarck 
+3 1 5 4 4 Cone of Cold <b>Freeze</b> a minion and the minions next to it, and deal $1 damage to them. Magi of the Kirin Tor were casting Cubes of Cold for many years before Cones came into fashion some 90 years ago. Leo Che 
+2 2 5 1 4 Arcane Missiles Deal $3 damage randomly split among all enemies. You'd think you'd be able to control your missiles a little better since you're a powerful mage and all. Warren Mahy 
+2 1 5 2 7 Shiv Deal $1 damage. Draw a card. Rogues are experts at SHIV-al-ry. Alex Garner 
+3 4 5 10 4 Pyroblast Deal $10 damage. Take the time for an evil laugh after you draw this card. Luca Zontini 
+3 1 4 6 0 Frost Elemental <b>Battlecry:</b> <b>Freeze</b> a character. When a Water elemental and an Ice elemental love each other VERY much... Dan Scott 
+3 3 4 5 0 Azure Drake <b>Spell Damage +1</b>. <b>Battlecry:</b> Draw a card. They initially planned to be the Beryl or Cerulean drakes, but those felt a tad too pretentious. Ben Zhang 
+3 3 5 3 4 Counterspell <b>Secret:</b> When your opponent casts a spell, <b>Counter</b> it. What's the difference between a mage playing with Counterspell and a mage who isn't?  The mage who isn't is getting Pyroblasted in the face. Jason Chan 
+3 1 5 3 4 Ice Barrier <b>Secret:</b> When your hero is attacked, gain 8 Armor. This is Rank 1.  Rank 2 is Chocolate Milk Barrier. Alex Garner 
+3 1 5 3 4 Mirror Entity <b>Secret:</b> After your opponent plays a minion, summon a copy of it. "You go first." - Krush'gor the Behemoth, to his pet boar. Raven Mimura 
+3 4 5 3 4 Ice Block <b>Secret:</b> When your hero takes fatal damage, prevent it and become <b>Immune</b> this turn. Ice is nice, and will suffice! Carl Frank 
+3 5 4 8 0 Ragnaros the Firelord Can't attack. At the end of your turn, deal 8 damage to a random enemy. Ragnaros was summoned by the Dark Iron dwarves, who were eventually enslaved by the Firelord.  Summoning Ragnaros often doesn’t work out the way you want it to. Greg Staples 
+3 3 4 3 9 Felguard <b>Taunt</b>. <b>Battlecry:</b> Destroy one of your Mana Crystals. Yes, he'll fight for you.  BUT HE'S NOT GOING TO LIKE IT. John Polidora 
+2 1 5 1 9 Mortal Coil Deal $1 damage to a minion. If that kills it, draw a card. If your spells look like horrifying skulls, let's be honest, you should get to draw some cards. Matt Gaser 
+3 3 5 4 9 Shadowflame Destroy a friendly minion and deal its Attack damage to all enemy minions. Start with a powerful minion and stir in Shadowflame and you have a good time! Dave Kendall 
+3 3 4 3 9 Void Terror <b>Battlecry:</b> Destroy the minions on either side of this minion and gain their Attack and Health. If you put this into your deck, you WILL lose the trust of your other minions. Alexander Alexandrov 
+2 2 4 2 9 Succubus <b>Battlecry:</b> Discard a random card. Warlocks have it pretty good. Matt Dixon 
+2 1 5 1 9 Soulfire Deal $4 damage. Discard a random card. Are you lighting a soul on fire? Or burning someone with your OWN soul? This seems like an important distinction. Raymond Swanland 
+3 3 5 6 9 Siphon Soul Destroy a minion. Restore #3 Health to your hero. You probably should avoid siphoning your own soul.  You might create some kind of weird infinite loop. Tyler Walpole 
+3 3 4 5 9 Doomguard <b>Charge</b>. <b>Battlecry:</b> Discard two random cards. Summoning a doomguard is risky. <i>Someone</i> is going to die. Lucas Graciano 
+3 4 5 8 9 Twisting Nether Destroy all minions. The Twisting Nether is a formless place of magic and illusion and destroyed minions. Dave Allsop 
+3 4 4 4 9 Pit Lord <b>Battlecry:</b> Deal 5 damage to your hero. Mannoroth, Magtheridon, and Brutallus may be dead, but it turns out there are a LOT of pit lords. Glenn Rane 
+3 1 4 4 9 Summoning Portal Your minions cost (2) less, but not less than (1). NOT LESS THAN 1!  Don't get any ideas! Tyler Walpole 
+3 1 5 1 9 Power Overwhelming Give a friendly minion +4/+4 until end of turn. Then, it dies. Horribly. We cannot even describe how horrible the death is.  It's CRAZY bad!  Maybe worse than that.  Just don't do it. Tom Baxa 
+3 1 5 3 9 Sense Demons Put 2 random Demons from your deck into your hand. Generally demons are pretty obvious and you don’t need a spell to sense them. Raven Mimura 
+3 1 4 1 9 Flame Imp <b>Battlecry:</b> Deal 3 damage to your hero. Imps like being on fire.  They just do. Alex Horley Orlandelli 
+3 4 5 5 9 Bane of Doom Deal $2 damage to a character. If that kills it, summon a random Demon. My advice to you is to avoid Doom, if possible. Raymond Swanland 
+3 5 4 9 9 Lord Jaraxxus <b>Battlecry:</b> Destroy your hero and replace it with Lord Jaraxxus. "TRIFLING GNOME! YOUR ARROGANCE WILL BE YOUR UNDOING!!!!" Alex Horley Orlandelli 
+3 1 5 0 6 Silence <b>Silence</b> a minion. Reserved for enemy spellcasters, evil liches from beyond the grave, and karaoke nights at the Grim Guzzler. Zoltan & Gabor 
+3 3 5 4 6 Shadow Madness Gain control of an enemy minion with 3 or less Attack until end of turn. You can rationalize it all you want, it's still a mean thing to do. Mark Gibbons 
+3 1 4 4 6 Lightspawn This minion's Attack is always equal to its Health. Spawn of the Light? Or Pawn of the Lights? Daarken 
+3 1 5 3 6 Thoughtsteal Copy 2 cards from your opponent's deck and put them into your hand. "What do you get when you cast Thoughtsteal on an Orc?  Nothing!" - Tauren joke Alex Garner 
+3 3 4 2 6 Lightwell At the start of your turn, restore 3 Health to a damaged friendly character. It isn't clear if people ignore the Lightwell, or if it is just invisible. Blizzard Entertainment 
+3 4 5 4 6 Mindgames Put a copy of a random minion from your opponent's deck into the battlefield. Sometimes it feels like this is all a game. Zoltan & Gabor 
+3 3 5 3 5 Divine Favor Draw cards until you have as many in hand as your opponent. This is not just a favor, but a divine one, like helping someone move a couch with a fold out bed! Lucas Graciano 
+3 5 4 7 6 Prophet Velen Double the damage and healing of your spells and Hero Power. He's been exiled from his home, and all his brothers turned evil, but otherwise he doesn't have a lot to complain about. Wei Wang 
+3 4 5 8 5 Lay on Hands Restore #8 Health. Draw 3 cards. A grammatically awkward life saver. Raymond Swanland 
+3 3 5 5 5 Blessed Champion Double a minion's Attack. This card causes double the trouble AND double the fun. Tyler Walpole 
+2 1 5 1 5 Humility Change a minion's Attack to 1. This card makes something really damp.  Oh wait.  That's "Humidity." Daren Bader 
+3 1 4 2 5 Argent Protector <b>Battlecry:</b> Give a friendly minion <b>Divine Shield</b>. "I'm not saying you can dodge fireballs.  I'm saying with this shield, you won't have to." Doug Alexander 
+3 1 5 1 5 Blessing of Wisdom Choose a minion. Whenever it attacks, draw a card. Apparently with wisdom comes the knowledge that you should probably be attacking every turn. Chippy 
+3 3 5 5 5 Holy Wrath Draw a card and deal damage equal to its cost. C'mon Molten Giant!! Justin Sweet 
+3 4 7 3 5 Sword of Justice After you summon a minion, give it +1/+1 and this loses 1 Durability. I dub you Sir Loin of Beef! Efrem Palacios 
+2 2 5 1 5 Hand of Protection Give a minion <b>Divine Shield</b>. This spell has been renamed so many times, even paladins don’t know what it should be called anymore. Clint Langley 
+3 1 5 1 5 Repentance <b>Secret:</b> After your opponent plays a minion, reduce its Health to 1. Repentance often comes in the moment before obliteration. Curious. Gonzalo Ordonez 
+3 3 4 3 5 Aldor Peacekeeper <b>Battlecry:</b> Change an enemy minion's Attack to 1. The Aldor hate two things: the Scryers and smooth jazz. Dany Orizio 
+3 5 4 8 5 Tirion Fordring <b>Divine Shield</b>. <b>Taunt</b>. <b>Deathrattle:</b> Equip a 5/3 Ashbringer. If you haven't heard the Tirion Fordring theme song, it's because it doesn't exist. Brom 
+3 4 5 6 5 Avenging Wrath Deal $8 damage randomly split among all enemies. Wham! Wham! Wham! Wham! Wham! Wham! Wham! Wham! Alex Garner 
+3 1 4 3 0 Tauren Warrior <b>Taunt</b>. <b>Enrage:</b> +3 Attack Tauren Warrior: Champion of Mulgore, Slayer of Quilboar, Rider of Thunderbluff Elevators. Paul Warzecha 
+3 1 5 2 10 Slam Deal $2 damage to a minion. If it survives, draw a card. "Dun da dun, dun da dun": if you've heard an ogre sing this, it's too late. E.M. Gist 
+3 1 5 2 10 Battle Rage Draw a card for each damaged friendly character. "You won't like me when I'm angry." Alex Horley Orlandelli 
+3 1 4 2 0 Amani Berserker <b>Enrage:</b> +3 Attack If an Amani berserker asks "Joo lookin' at me?!", the correct response is "Nah, mon". Chippy 
+3 1 4 4 0 Mogu'shan Warden <b>Taunt</b> All these guys ever do is talk about the Thunder King.   BOOOORRRINNG! Cole Eastburn 
+3 1 4 4 10 Arathi Weaponsmith <b>Battlecry:</b> Equip a 2/2 weapon. 50% off fist weapons, limited time only! Samwise 
+2 1 4 5 0 Gurubashi Berserker Whenever this minion takes damage, gain +3 Attack. No Pain, No Gain. Alex Horley Orlandelli 
+2 1 5 1 10 Whirlwind Deal $1 damage to ALL minions. The way to tell seasoned warriors from novice ones: the novices yell "wheeeee" while whirlwinding. Jonboy Meyers 
+3 3 4 2 10 Armorsmith Whenever a friendly minion takes damage, gain 1 Armor. She accepts guild funds for repairs! Greg Hildebrandt 
+3 1 4 1 0 Shieldbearer <b>Taunt</b> Have you seen the size of the shields in this game??  This is no easy job. Carl Critchlow 
+3 4 5 5 10 Brawl Destroy all minions except one. <i>(chosen randomly)</i> Do you know the first rule of Brawl Club? Wayne Reynolds 
+3 3 5 4 10 Mortal Strike Deal $4 damage. If you have 12 or less Health, deal $6 instead. "If you only use one ability, use Mortal Strike." - The Warrior Code, Line 6 Zoltan & Gabor 
+3 3 5 1 10 Upgrade! If you have a weapon, give it +1/+1. Otherwise equip a 1/3 weapon. Easily worth 50 DKP. Matt Cavotta 
+3 4 5 1 10 Shield Slam Deal 1 damage to a minion for each Armor you have. "What is a better weapon? The sharp one your enemies expect, or the blunt one they ignore?" - The Art of Warrior, Chapter 9 Raymond Swanland 
+3 4 7 7 10 Gorehowl Attacking a minion costs 1 Attack instead of 1 Durability. Grommash Hellscream's famous axe.  Somehow this ended up in Prince Malchezaar's possession.  Quite the mystery! Zoltan & Gabor 
+3 1 4 3 0 Raging Worgen <b>Enrage:</b> <b>Windfury</b> and +1 Attack If he's raging now, just wait until he gets nerfed. Alex Horley Orlandelli 
+3 5 4 8 10 Grommash Hellscream <b>Charge</b>
+<b>Enrage:</b> +6 Attack Grommash drank the tainted blood of Mannoroth, dooming the orcs to green skin and red eyes!  Maybe not his best decision. Glenn Rane 
+2 1 4 2 0 Murloc Tidehunter <b>Battlecry:</b> Summon a 1/1 Murloc Scout. "Death will rise, from the tides!" Dan Scott 
+3 4 4 3 0 Murloc Warleader ALL other Murlocs have +2/+1. Do Murlocs ever get tired of making the same old sound?  Nope!  Mrglglrglglglglglglgl! Tim McBurnie 
+2 1 4 1 0 Grimscale Oracle ALL other Murlocs have +1 Attack. These are the brainy murlocs.  It turns out that doesn’t mean much. Phil Saunders 
+3 3 4 1 0 Murloc Tidecaller Whenever a Murloc is summoned, gain +1 Attack. This guy gets crazy strong at family reunions. Jaemin Kim 
+3 4 4 2 7 Patient Assassin <b>Stealth</b>. Destroy any minion damaged by this minion. He’s not really that patient. It just takes a while for someone to walk by that he can actually reach. Ben Olson 
+3 1 4 2 3 Scavenging Hyena Whenever a friendly Beast dies, gain +2/+1. Hyenas prefer the bones of kodos or windserpents, but they'll eat pretty much anything.  Even Brussels sprouts. Jim Nelson 
+3 3 5 2 3 Misdirection <b>Secret:</b> When a character attacks your hero, instead he attacks another random character. Sometimes it's as simple as putting on a fake mustache and pointing at someone else. Daren Bader 
+3 3 4 6 3 Savannah Highmane <b>Deathrattle:</b> Summon two 2/2 Hyenas. In the jungle, the mighty jungle, the lion gets slowly consumed by hyenas. Milivoj Ceran 
+3 3 7 3 3 Eaglehorn Bow Whenever a friendly <b>Secret</b> is revealed, gain +1 Durability. First Lesson: Put the pointy end in the other guy. Cyril Van Der Haegen 
+3 3 5 5 3 Explosive Shot Deal $5 damage to a minion and $2 damage to adjacent ones. Pull the pin, count to 5, then shoot.  Then duck. Tom Baxa 
+3 1 5 3 3 Unleash the Hounds For each enemy minion, summon a 1/1 Hound with <b>Charge</b>. You must read the name of this card out loud each time you play it. Linggar Bramanty 
+2 1 5 3 3 Kill Command Deal $3 damage. If you have a Beast, deal $5 damage instead. "Kill!", he commanded. Gabe from Penny Arcade 
+3 5 4 9 3 King Krush <b>Charge</b> The best defense against King Krush is to have someone you don’t like standing in front of you. Alex Horley Orlandelli 
+3 3 5 2 3 Flare All minions lose <b>Stealth</b>. Destroy all enemy <b>Secrets</b>. Draw a card. Not only does it reveal your enemies, but it's also great for parties! Tyler Walpole 
+3 4 5 1 3 Bestial Wrath Give a friendly Beast +2 Attack and <b>Immune</b> this turn. The seething wrath is just beneath the surface.  Beneath that is wild abandon, followed by slight annoyance. Alex Horley Orlandelli 
+3 4 5 2 3 Snake Trap <b>Secret:</b> When one of your minions is attacked, summon three 1/1 Snakes. Why did it have to be snakes? Bernie Kang 
+3 1 4 3 0 Harvest Golem <b>Deathrattle:</b> Summon a 2/1 Damaged Golem. "Overheat threshold exceeded. System failure. Wheat clog in port two. Shutting down." Brian Despain 
+3 5 4 2 0 Nat Pagle At the start of your turn, you have a 50% chance to draw an extra card. Nat Pagle, Azeroth's premier fisherman!  He invented the Auto-Angler 3000, the Extendo-Pole 3000, and the Lure-o-matic 2099 (still in testing). Steve Prescott 
+3 5 4 5 0 Harrison Jones <b>Battlecry:</b> Destroy your opponent's weapon and draw cards equal to its Durability. “That belongs in the Hall of Explorers!” Matt Dixon 
+3 5 4 7 4 Archmage Antonidas Whenever you cast a spell, add a 'Fireball' spell to your hand. Antonidas was the Grand Magus of the Kirin Tor, and Jaina's mentor.  This was a big step up from being Grand Magus of Jelly Donuts. Wayne Reynolds 
+3 5 4 9 0 Nozdormu Players only have 15 seconds to take their turns. Time to write some flavor text. James Ryman 
+3 5 4 9 0 Alexstrasza <b>Battlecry:</b> Set a hero's remaining Health to 15. Alexstrasza the Life-Binder brings life and hope to everyone.  Except Deathwing.  And Malygos.  And Nekros. Raymond Swanland 
+3 5 4 9 0 Onyxia <b>Battlecry:</b> Summon 1/1 Whelps until your side of the battlefield is full. Onyxia long manipulated the Stormwind Court by disguising herself as Lady Katrana Prestor.   You would have thought that the giant wings and scales would have been a giveaway. Dany Orizio 
+3 5 4 9 0 Malygos <b>Spell Damage +5</b> Malygos hates it when mortals use magic.  He gets so mad! Michael Komarck 
+3 4 4 5 0 Faceless Manipulator <b>Battlecry:</b> Choose a minion and become a copy of it. The Faceless Ones are servants of Yogg-Saron, and they feed on fear. Right now they are feeding on your fear of accidentally disenchanting all your good cards. Raymond Swanland 
+2 1 4 2 8 Flametongue Totem Adjacent minions have +2 Attack. Totemsmiths like to use the rarest woods for their totems.  There are even rumors of totems made of Ironbark Protectors. Jonathan Ryder 
+3 4 7 5 8 Doomhammer <b>Windfury, Overload:</b> (2) Orgrim Doomhammer gave this legendary weapon to Thrall.  His name is a total coincidence. John Polidora 
+3 3 5 4 2 Bite Give your hero +4 Attack this turn and 4 Armor. Chew your food! Tom Baxa 
+3 4 5 6 2 Force of Nature Summon three 2/2 Treants with <b>Charge</b> that die at the end of the turn. "I think I'll just nap under these trees. Wait... AAAAAHHH!" - Blinkfizz, the Unfortunate Gnome Trevor Jacobs 
+3 5 4 9 0 Ysera At the end of your turn, add a Dream Card to your hand. Ysera rules the Emerald Dream.  Which is some kind of green-mirror-version of the real world, or something? Gabor Szikszai 
+3 5 4 9 2 Cenarius <b>Choose One</b> - Give your other minions +2/+2; or Summon two 2/2 Treants with <b>Taunt</b>. Yes, he's a demigod. No, he doesn't need to wear a shirt. Alex Horley Orlandelli 
+3 3 4 3 8 Mana Tide Totem At the end of your turn, draw a card. It is said that some shaman can say "Floatin' totem" 10 times, fast. Scott Altmann 
+3 5 4 6 0 The Beast <b>Deathrattle:</b> Summon a 3/3 Finkle Einhorn for your opponent. He lives in Blackrock Mountain.  He eats Gnomes.  That's pretty much it. Glenn Rane 
+3 3 5 1 2 Savagery Deal damage equal to your hero's Attack to a minion. It is true that some druids are savage, but others still enjoy a quiet moment and a spot of tea. Dave Rapoza 
+2 2 5 2 7 Sap Return an enemy minion to your opponent's hand. Rogues love sappy movies. Scott Altmann 
+2 1 4 3 0 Dalaran Mage <b>Spell Damage +1</b> You don't see a lot of Dalaran warriors. Jim Nelson 
+3 1 4 6 0 Priestess of Elune <b>Battlecry:</b> Restore 4 Health to your hero. If she threatens to "moon" you, it's not what you think. Dan Scott 
+3 3 4 4 0 Ancient Mage <b>Battlecry:</b> Give adjacent minions <b>Spell Damage +1</b>. Sometimes he forgets and just wanders into someone else's game. Howard Lyon 
+3 4 4 10 0 Sea Giant Costs (1) less for each other minion on the battlefield. See?  Giant. Svetlin Velinov 
+2 1 4 4 8 Windspeaker <b>Battlecry:</b> Give a friendly minion <b>Windfury</b>. Is there anything worse than a Windspeaker with halitosis? Vance Kovacs 
+3 4 4 3 0 Blood Knight <b>Battlecry:</b> All minions lose <b>Divine Shield</b>. Gain +3/+3 for each Shield lost. The Blood Knights get their holy powers from the Sunwell, which you should NOT bathe in. Trent Kaniuga 
+3 3 4 4 6 Auchenai Soulpriest Your cards and powers that restore Health now deal damage instead. The Auchenai know the end is coming, but they're not sure when. Doug Alexander 
+2 2 4 5 0 Nightblade <b>Battlecry: </b>Deal 3 damage to the enemy hero. Your face is the place you'd probably least like a dagger, and where rogues are most likely to deliver them. Raymond Swanland 
+3 3 5 3 4 Vaporize <b>Secret:</b> When a minion attacks your hero, destroy it. Rumor has it that Deathwing brought about the Cataclysm after losing a game to this card.  We may never know the truth. Raymond Swanland 
+3 1 4 4 0 Cult Master Whenever one of your other minions dies, draw a card. She may be an evil cult master, but she still calls her parents once a week. Raymond Swanland 
+3 1 5 2 9 Demonfire Deal $2 damage to a minion. If it’s a friendly Demon, give it +2/+2 instead. Demonfire is like regular fire except for IT NEVER STOPS BURNING HELLLPPP Ben Wootten 
+3 3 4 3 0 Imp Master At the end of your turn, deal 1 damage to this minion and summon a 1/1 Imp. She would enjoy the job a lot more if she just could get the imps to QUIT BITING HER. Mark Gibbons 
+3 1 4 2 10 Cruel Taskmaster <b>Battlecry:</b> Deal 1 damage to a minion and give it +2 Attack. "I'm going to need you to come in on Sunday." - Cruel Taskmaster Phroilan Gardner 
+3 3 4 3 10 Frothing Berserker Whenever a minion takes damage, gain +1 Attack. He used to work as an accountant before he tried his hand at Berserkering. Simon Bisley 
+2 1 5 3 10 Shield Block Gain 5 Armor.
+Draw a card. Shields were invented because Face Block is USELESS. Michael Komarck 
+3 1 5 0 10 Inner Rage Deal $1 damage to a minion and give it +2 Attack. They're only smiling on the outside. Slawomir Maniak 
+3 1 4 2 4 Sorcerer's Apprentice Your spells cost (1) less. Apprentices are great for bossing around.  "Conjure me some mana buns! And a coffee!  Make that a mana coffee!" Alex Horley Orlandelli 
+3 1 5 2 3 Snipe <b>Secret:</b> After your opponent plays a minion, deal $4 damage to it. A great sniper hits the spot.  Just like a delicious flank of boar. Mmmmm. Lorenzo Minaca 
+3 1 5 2 3 Explosive Trap <b>Secret:</b> When your hero is attacked, deal $2 damage to all enemies. It traps your food AND cooks it for you! Brandon Kitkouski 
+3 1 5 2 3 Freezing Trap <b>Secret:</b> When an enemy minion attacks, return it to its owner's hand and it costs (2) more. "Dang, that's cold." - appropriate response to Freezing Trap, or a mean joke. Matt Gaser 
+3 3 4 3 4 Kirin Tor Mage <b>Battlecry:</b> The next <b>Secret</b> you play this turn costs (0). The Kirin Tor reside in the floating city of Dalaran.  How do you make a Dalaran float?  Two scoops of ice cream, one scoop of Dalaran. Popo Wei 
+3 5 4 3 7 Edwin VanCleef <b>Combo:</b> Gain +2/+2 for each card played earlier this turn. He led the Stonemasons in the reconstruction of Stormwind, and when the nobles refused to pay, he founded the Defias Brotherhood to, well, <i>deconstruct</i> Stormwind. Efrem Palacios 
+3 5 4 6 0 Illidan Stormrage Whenever you play a card, summon a 2/1 Flame of Azzinoth. Illidan's brother, Malfurion, imprisoned him beneath Hyjal for 10,000 years.  Stormrages are not good at letting go of grudges. Alex Horley Orlandelli 
+3 3 4 2 0 Mana Wraith ALL minions cost (1) more. They come out at night to eat leftover mana crystals. "Mmmmmm," they say. Luca Zontini 
+3 1 5 3 3 Deadly Shot Destroy a random enemy minion. Accuracy is not a highly valued trait among the mok'nathal.  Deadliness is near the top, though. Steve Prescott 
+3 3 5 2 5 Equality Change the Health of ALL minions to 1. We are all special unique snowflakes... with 1 Health. Michal Ivan 
+3 4 4 20 0 Molten Giant Costs (1) less for each damage your hero has taken. He gets terrible heartburn.  BECAUSE HE IS FULL OF LAVA. Glenn Rane 
+3 1 5 0 6 Circle of Healing Restore #4 Health to ALL minions. It isn't really a circle. Daarken 
+2 1 5 3 6 Shadow Word: Death Destroy a minion with an Attack of 5 or more. If you miss, it leaves a lightning-bolt-shaped scar on your target. Raymond Swanland 
+3 1 4 6 6 Temple Enforcer <b>Battlecry:</b> Give a friendly minion +3 Health. He also moonlights Thursday nights as a bouncer at the Pig and Whistle Tavern. Daren Bader 
+3 3 5 6 6 Holy Fire Deal $5 damage. Restore #5 Health to your hero. Often followed by Holy Smokes! Miguel Coimbra 
+3 4 5 3 6 Shadowform Your Hero Power becomes 'Deal 2 damage'. If already in Shadowform: 3 damage. If a bright light shines on a priest in Shadowform… do they cast a shadow? Alex Horley Orlandelli 
+3 3 5 4 6 Mass Dispel <b>Silence</b> all enemy minions. Draw a card. It dispels buffs, powers, hopes, and dreams. Sean O'Daniels 
+12 1 4 1 0 Zombie Chow <b>Deathrattle:</b> Restore 5 Health to the enemy hero. Zombie.  It's what's for dinner. E. M. Gist 
+12 1 4 2 0 Haunted Creeper <b>Deathrattle:</b> Summon two 1/1 Spectral Spiders. Arachnofauxbia: Fear of fake spiders. Jeremy Cranford 
+12 4 4 2 0 Echoing Ooze <b>Battlecry:</b> Summon an exact copy of this minion at the end of the turn. OOZE... Ooze... Ooze... (ooze...) Eric Browning 
+12 1 4 2 0 Mad Scientist <b>Deathrattle:</b> Put a <b>Secret</b> from your deck into the battlefield. His mother wanted him to be a mage or a warlock, but noooooooo, he had to go and be a scientist like his father. James Ryman 
+12 4 4 3 0 Shade of Naxxramas <b>Stealth.</b> At the start of your turn, gain +1/+1. The Shades of Naxxramas <i>hate</i> the living. They even have a slur they use to refer them: <i>Livers</i>. Ittoku Seta 
+12 3 4 2 0 Nerubian Egg <b>Deathrattle:</b> Summon a 4/4 Nerubian. Eggs are a good source of protein and Nerubians. Justin Thavirat 
+12 1 4 5 0 Spectral Knight Can't be targeted by spells or Hero Powers. What do Faerie Dragons and Spectral Knights have in common?  They both love pasta! Chris Rahn 
+12 3 4 3 0 Deathlord <b>Taunt. Deathrattle:</b> Your opponent puts a minion from their deck into the battlefield. "Rise from your grave!" - Kel'Thuzad Ben Olson 
+12 5 4 6 0 Maexxna Destroy any minion damaged by this minion. Maexxna gets super mad when people introduce her as "Maxina" or "Maxxy". Howard Lyon 
+12 1 4 1 3 Webspinner <b>Deathrattle:</b> Add a random Beast card to your hand. Spider cocoons are like little piñatas! Dan Brereton 
+12 3 4 5 0 Sludge Belcher <b>Taunt.
+Deathrattle:</b> Summon a 1/2 Slime with <b>Taunt</b>. DO NOT GIVE HIM A ROOT BEER. Nate Bowden 
+12 5 4 8 0 Kel'Thuzad At the end of each turn, summon all friendly minions that died this turn. Kel'Thuzad could not resist the call of the Lich King. Even when it's just a robo-call extolling the Lich King's virtues. Chris Robinson 
+12 5 4 5 0 Stalagg <b>Deathrattle:</b> If Feugen also died this game, summon Thaddius. Stalagg want to write own flavor text.  "STALAGG AWESOME!" Dany Orizio 
+12 5 4 5 0 Feugen <b>Deathrattle:</b> If Stalagg also died this game, summon Thaddius. Feugen is sad because everyone likes Stalagg better. Dany Orizio 
+12 3 4 4 0 Wailing Soul <b>Battlecry: Silence</b> your other minions. This soul just <i>wails</i> on you. Dang, soul, let up already. Glenn Rane 
+12 1 4 2 0 Nerub'ar Weblord Minions with <b>Battlecry</b> cost (2) more. Weblords spend all day making giant trampoline parks. Alex Horley Orlandelli 
+12 1 5 3 4 Duplicate <b>Secret:</b> When a friendly minion dies, put 2 copies of it into your hand. The one time when duping cards won't get your account banned! Alex Garner 
+12 1 5 4 2 Poison Seeds Destroy all minions and summon 2/2 Treants to replace them. "Poisonseed Bagel" is the least popular bagel at McTiggin's Druidic Bagel Emporium. Brian Despain 
+12 1 5 1 5 Avenge <b>Secret:</b> When one of your minions dies, give a random friendly minion +3/+2. Several paladins have joined together to deliver justice under the name "Justice Force".  Their lawyer talked them out of calling themselves the Justice League. Zoltan & Gabor 
+12 1 7 4 10 Death's Bite <b>Deathrattle:</b> Deal 1 damage to all minions. "Take a bite outta Death." - McScruff the Deathlord Jim Nelson 
+12 1 4 4 9 Voidcaller <b>Deathrattle:</b> Put a random Demon from your hand into the battlefield. "Void!  Here, void!  Here, buddy!" Robb Shoberg 
+12 1 4 3 6 Dark Cultist <b>Deathrattle:</b> Give a random friendly minion +3 Health. The Cult of the Damned has found it's best not to mention their name when recruiting new cultists. Phroilan Gardner 
+12 1 4 2 0 Unstable Ghoul <b>Taunt</b>. <b>Deathrattle:</b> Deal 1 damage to all minions. Filling your Ghouls with Rocket Fuel is all the rage at Necromancer school. Mike Nicholson 
+12 1 5 2 8 Reincarnate Destroy a minion, then return it to life with full Health. It's like birth, except you're an adult and you were just dead a second ago. Dan Scott 
+12 1 4 4 7 Anub'ar Ambusher <b>Deathrattle:</b> Return a random friendly minion to your hand. Originally he was called "Anub'ar Guy who bounces a guy back to your hand", but it lacked a certain zing. Nate Bowden 
+12 1 4 3 0 Stoneskin Gargoyle At the start of your turn, restore this minion to full Health. Stoneskin Gargoyles love freeze tag. Matt Smith 
+12 1 4 1 0 Undertaker Whenever you summon a minion with <b>Deathrattle</b>, gain +1 Attack. In a world where you can run to a spirit healer and resurrect yourself, Undertakers do pretty light business. Jonboy Meyers 
+12 1 4 3 0 Dancing Swords <b>Deathrattle:</b> Your opponent draws a card. They like to dance to reggae. Jon McConnell 
+12 5 4 5 0 Loatheb <b>Battlecry:</b> Enemy spells cost (5) more next turn. Loatheb used to be a simple Bog Beast.  This is why we need stricter regulations on mining and agriculture. Samwise 
+12 5 4 4 0 Baron Rivendare Your minions trigger their <b>Deathrattles</b> twice. There used to be five Horsemen but one of them left because a job opened up in the deadmines and the benefits were better. Ralph Horsley 
+13 1 5 2 4 Flamecannon Deal $4 damage to a random enemy minion. Calling something a flamecannon really doesn't do much to distinguish it from other goblin devices. Mauricio Herrera 
+13 1 4 2 4 Snowchugger <b>Freeze</b> any character damaged by this minion. Do the slow chant when he waddles by: "Chug! Chug! Chug!" Gabor Szikszai 
+13 3 5 2 4 Unstable Portal Add a random minion to your hand. It costs (3) less. The denizens of Azeroth have no idea how much work goes into stabilizing portals.  We spend like 30% of GDP on portal upkeep. Sean O'Daniels 
+13 3 4 4 4 Goblin Blastmage <b>Battlecry:</b> If you have a Mech, deal 4 damage randomly split among all enemies. If you can't find a bomb to throw, just pick up any goblin invention and throw that. Glenn Rane 
+13 4 5 4 4 Echo of Medivh Put a copy of each friendly minion into your hand. Medivh's echo haunts Karazhan, eternally cheating at chess and <i>Hearthstone</i>. Alex Garner 
+13 1 4 2 0 Mechwarper Your Mechs cost (1) less. Mechs that summon mechs? What's next? Donuts that summon donuts? Mmmmm. Phil Saunders 
+13 5 4 7 4 Flame Leviathan When you draw this, deal 2 damage to all characters. Mimiron likes to take the Flame Leviathan out on some sweet joyrides. Aleksi Briclot 
+13 4 5 6 6 Lightbomb Deal damage to each minion equal to its Attack. This is what happens when you allow goblins to be priests. Luca Zontini 
+13 4 4 1 6 Shadowbomber <b>Battlecry:</b> Deal 3 damage to each hero. Shadowbomber does her job, but she's kind of phoning it in at this point. Matt Dixon 
+13 1 5 3 6 Velen's Chosen Give a minion +2/+4 and <b>Spell Damage +1</b>. Velen wrote a "Lovely Card" for Tyrande with a picture of the Deeprun Tram that said "I Choo-Choo-Choose you!" Alex Horley Orlandelli 
+13 1 4 2 6 Shrinkmeister <b>Battlecry:</b> Give a minion -2 Attack this turn. After the debacle of the Gnomish World Enlarger, gnomes are wary of size-changing inventions. Jim Nelson 
+13 3 5 1 6 Light of the Naaru Restore #3 Health. If the target is still damaged, summon a Lightwarden. "Light it up!" - Command given to both Lightwardens and Goblins holding Flamecannons. Jesper Ejsing 
+13 1 4 1 0 Cogmaster Has +2 Attack while you have a Mech. After a while, you don't see the cogs and sprockets. All you see is a robot, a spider tank, a deathray... Trent Kaniuga 
+13 5 4 5 6 Vol'jin <b>Battlecry:</b> Swap Health with another minion. Vol'jin is a shadow hunter, which is like a shadow priest except more voodoo. Raymond Swanland 
+13 1 5 2 9 Darkbomb Deal $3 damage. If you're looking to make an "Emo" deck, this card is perfect! Jeff Haynie 
+13 4 4 5 0 Fel Reaver Whenever your opponent plays a card, remove the top 3 cards of your deck. So reaver. Much fel. Wow. Zoltan & Gabor 
+13 3 5 2 3 Call Pet Draw a card.
+If it's a Beast, it costs (4) less. Real hunters tame hungry crabs. E.M. Gist 
+13 3 4 2 9 Mistress of Pain Whenever this minion deals damage, restore that much Health to your hero. Her sister is the Mistress of Pane who sells windows and shower doors. Carl Critchlow 
+13 4 5 5 9 Demonheart Deal $5 damage to a minion.  If it's a friendly Demon, give it +5/+5 instead. Virtually every member of the pro demon lobby is a warlock. Weird. Kerem Beyit 
+13 3 4 4 9 Fel Cannon At the end of your turn, deal 2 damage to a non-Mech minion. The box says, "New and improved, with 200% more fel!" Matt Gaser 
+13 5 4 9 9 Mal'Ganis Your other Demons have +2/+2.
+Your hero is <b>Immune</b>. Mal'Ganis doesn't like being betrayed, so if you discard him, watch out. Wayne Reynolds 
+13 1 5 4 7 Tinker's Sharpsword Oil Give your weapon +3 Attack. <b>Combo:</b> Give a random friendly minion +3 Attack. "Get ready to strike oil!" - Super-cheesy battle cry Den 
+13 1 4 2 7 Goblin Auto-Barber <b>Battlecry</b>: Give your weapon +1 Attack. This guy is excellent at adjusting your haircut and/or height. Zolton Boros 
+13 4 7 3 7 Cogmaster's Wrench Has +2 Attack while you have a Mech. For tightening cogs and smashin' troggs! Richard Wright 
+13 3 4 2 7 One-eyed Cheat Whenever you summon a Pirate, gain <b>Stealth</b>. When pirates say there is no "Eye" in "team," they are very literal about it. Danny Beck 
+13 4 5 2 3 Feign Death Trigger all <b>Deathrattles</b> on your minions. The hardest part about doing a "Feign Death" convincingly is learning how to make the right smell. It takes a lot of commitment. Luca Zontini 
+13 3 4 3 7 Iron Sensei At the end of your turn, give another friendly Mech +2/+2. Mechs like learning from him because he really speaks their language.
+0110100001101001 Brian Despain 
+13 5 4 6 7 Trade Prince Gallywix Whenever your opponent casts a spell, gain a copy of it and give them a Coin. Gallywix believes in supply and demand. He supplies the beatings and demands you pay up! Wei Wang 
+13 4 5 4 8 Ancestor's Call Put a random minion from each player's hand into the battlefield. "Hey! Ancestors!" - Ancestor's call Dan Scott 
+13 1 4 2 2 Anodized Robo Cub <b>Taunt</b>. <b>Choose One -</b>
++1 Attack; or +1 Health. It's adorable! AND OH MY GOODNESS WHY IS IT EATING MY FACE Eva Widermann 
+13 3 5 6 2 Recycle Shuffle an enemy minion into your opponent's deck. Druidic recycling involves putting plastics in one bin and enemy minions in another bin. Efrem Palacios 
+13 3 4 3 2 Grove Tender <b>Choose One -</b> Give each player a Mana Crystal; or Each player draws a card. Likes: Hiking and the great outdoors. Dislikes: Goblin shredders and sandals. (Can’t find any that fit!). Chris Rahn 
+13 4 5 9 2 Tree of Life Restore all characters to full Health. Healing: It grows on trees! Steve Prescott 
+13 3 4 6 2 Mech-Bear-Cat Whenever this minion takes damage, add a <b>Spare Part</b> card to your hand. Crushes buildings with his BEAR hands.  Trent Kaniuga 
+13 5 4 7 2 Malorne <b>Deathrattle:</b> Shuffle this minion into your deck. When Malorne isn't mauling hordes of demons, he enjoys attending parties, though he prefers to go stag. Oliver Chipping 
+13 3 7 3 8 Powermace <b>Deathrattle</b>: Give a random friendly Mech +2/+2. People assume that shamans control the elements, but really, they have to ask them stuff and the elements are like, "Yeah ok, sure." Zoltan and Gabor 
+13 1 4 2 8 Whirling Zap-o-matic <b>Windfury</b> If you pay a little extra, you can get it in "candy-apple red." Jim Nelson 
+13 1 5 2 8 Crackle Deal $3-$6 damage. <b>Overload:</b> (1) Snap! This card! Pop! Warren Mahy 
+13 3 4 2 8 Vitality Totem At the end of your turn, restore 4 Health to your hero. You can usually find these at the totemist's market on Saturdays. Guangjian Huang 
+13 4 4 4 8 Siltfin Spiritwalker Whenever another friendly Murloc dies, draw a card. <b>Overload</b>: (1) The elements respond to anyone who calls them for a worthy cause, even if you call them by yelling, "MRGHRGLGLGL!" Clint Langley 
+13 4 5 6 2 Dark Wispers <b>Choose One -</b> Summon 5 Wisps; or Give a minion +5/+5 and <b>Taunt</b>. Don't worry; we fired the person who named this card. Trent Kaniuga 
+13 5 4 7 8 Neptulon <b>Battlecry:</b> Add 4 random Murlocs to your hand. <b>Overload:</b> (3) Neptulon is "The Tidehunter". He’s one of the four elemental lords. And he and Ragnaros get together and make really amazing saunas. Ruan Jia 
+13 1 7 2 3 Glaivezooka <b>Battlecry:</b> Give a random friendly minion +1 Attack. For the times when a regular bazooka just isn't enough. Gino Whitehall 
+13 1 4 3 0 Spider Tank null "What if we put guns on it?" -Fizzblitz, staring at the spider-transportation-machine Dany Orizio 
+13 3 5 4 9 Imp-losion Deal $2-$4 damage to a minion. Summon a 1/1 Imp for each damage dealt. The shrapnel is waaaaay worse than the explosion. Jaemin Kim 
+13 3 4 5 3 King of Beasts <b>Taunt</b>. <b>Battlecry:</b> Gain +1 Attack for each other Beast you have. He never sleeps.  Not even in the mighty jungle. Seamus Gallagher 
+13 4 5 4 7 Sabotage Destroy a random enemy minion. <b>Combo</b>: And your opponent's weapon. Rogues can't stand it. They know you planned it! They are going to set you straight! Dave Allsop 
+13 3 4 3 3 Metaltooth Leaper <b>Battlecry</b>: Give your other Mechs +2 Attack. Don't leave them out in the rain. In Un'Goro Crater there is a whole colony of rust-tooth leapers. Hideaki Takamura 
+13 5 4 7 3 Gahz'rilla Whenever this minion takes damage, double its Attack. The Sen'jin High football team is The Gahz'rillas. Raymond Swanland 
+13 4 5 3 10 Bouncing Blade Deal $1 damage to a random minion. Repeat until a minion dies. Only goblins would think this was a good idea. Even they are starting to have their doubts. Andrew Hou 
+13 1 4 1 10 Warbot <b>Enrage:</b> +1 Attack. Mass production of warbots was halted when it was discovered that they were accidentally being produced at "sample size." Tyler Walpole 
+13 4 5 7 10 Crush Destroy a minion. If you have a damaged minion, this costs (4) less. Using this card on your enemies is one of the best things in life, according to some barbarians. Michael Sutfin 
+13 3 4 6 10 Shieldmaiden <b>Battlecry:</b> Gain 5 Armor. She has three shieldbearers in her party to supply her with back ups when she gets low on durability. Alex Horley Orlandelli 
+13 1 7 3 10 Ogre Warmaul 50% chance to attack the wrong enemy. Simple, misguided, and incredibly dangerous. You know, like most things ogre. Richard Wright 
+13 3 4 4 10 Screwjank Clunker <b>Battlecry</b>: Give a friendly Mech +2/+2. If it breaks, just kick it a couple of times while yelling "Durn thing!" Jesper Ejsing 
+13 5 4 6 10 Iron Juggernaut <b>Battlecry:</b> Shuffle a Mine into your opponent's deck. When drawn, it explodes for 10 damage. The Iron Juggernaut guards Orgrimmar and has just earned the "Employee of the Month" award! Raymond Swanland 
+13 1 5 2 5 Seal of Light Restore #4 Health to your hero and gain +2 Attack this turn. The walrus of Light restores EIGHT Health. Jason Chan 
+13 1 4 2 5 Shielded Minibot <b>Divine Shield</b> He chooses to believe what he is programmed to believe! Raymond Swanland 
+13 4 7 3 5 Coghammer <b>Battlecry:</b> Give a random friendly minion <b>Divine Shield</b> and <b>Taunt</b>. So you ripped this out of a machine, carved some runes on it, stuck it on a handle, and now it's a weapon of great divine power? Seems legit. Dany Orizio 
+13 4 4 5 5 Quartermaster <b>Battlecry:</b> Give your Silver Hand Recruits +2/+2. His specialty? Dividing things into four pieces. Phroilan Gardner 
+13 3 5 3 5 Muster for Battle Summon three 1/1 Silver Hand Recruits. Equip a 1/4 Weapon. "I'm bringing the guacamole!" – One of the most successful (yet rare) Silver Hand rallying cries Mike Hayes 
+13 3 4 5 5 Cobalt Guardian Whenever you summon a Mech, gain <b>Divine Shield</b>. Guardians used to be built out of Adamantium, but production got moved to Gadgetzan and Cobalt was cheap. Jim Nelson 
+13 5 4 5 5 Bolvar Fordragon Whenever a friendly minion dies while this is in your hand, gain +1 Attack. Spoiler alert: Bolvar gets melted and then sits on an ice throne and everyone forgets about him. Tooth 
+13 1 4 2 0 Puddlestomper null He pays homage to Morgl, the great murloc oracle! (Who doesn't??) Jaemin Kim 
+13 1 4 3 0 Ogre Brute 50% chance to attack the wrong enemy. Ogres have really terrible short-term chocolate. Vinod Rams 
+13 3 4 4 8 Dunemaul Shaman <b>Windfury, Overload: (1)</b>
+50% chance to attack the wrong enemy. He just closes his eyes and goes for it. Raarararrrarar! José Ladrönn 
+13 1 4 2 0 Stonesplinter Trogg Whenever your opponent casts a spell, gain +1 Attack. The only thing worse than smelling troggs is listening to their poetry. Peet Cooper 
+13 1 4 4 0 Burly Rockjaw Trogg Whenever your opponent casts a spell, gain +2 Attack. He's burly because he does CrossFit. Aleksi Briclot 
+13 1 4 5 0 Antique Healbot <b>Battlecry:</b> Restore 8 Health to your hero. They don't make 'em like they used to! (Because of explosions, mostly.) Jesper Ejsing 
+13 1 4 5 0 Salty Dog null He's recently recovered from being a "scurvy dog." Alex Horley Orlandelli 
+13 1 4 4 0 Lost Tallstrider null The message, "If found, please return to Mulgore," is tattooed on his rear. Benjamin Zhang 
+13 3 4 2 6 Shadowboxer Whenever a character is healed, deal 1 damage to a random enemy. Punching is its primary function. Also, its secondary function. Dan Scott 
+13 1 5 5 3 Cobra Shot Deal $3 damage to a minion and the enemy hero. "Cobra Shot" hurts way, way, way more than "Cobra Cuddle." Howard Lyon 
+13 3 4 4 0 Kezan Mystic <b>Battlecry:</b> Take control of a random enemy <b>Secret</b>. They pretend to be wise and enlightened, but they mostly just hate to be left out of a secret. Jakub Kasper 
+13 1 4 2 0 Ship's Cannon After you summon a Pirate, deal 2 damage to a random enemy. If you hear someone yell, "Cannonball!" you're about to get wet. Or crushed. Warren Mahy 
+13 1 4 2 0 Explosive Sheep <b>Deathrattle:</b> Deal 2 damage to all minions. How is this supposed to work?  Your enemies think, "<i>Hey!</i> Cute sheep!" and run over to cuddle it? Ralph Horsley 
+13 4 4 6 9 Anima Golem At the end of each turn, destroy this minion if it's your only one. The Dark Animus is evil and mysterious and huge and unable to write sentences that utilize proper grammar. Josh Harris 
+13 1 4 4 0 Mechanical Yeti <b>Deathrattle:</b> Give each player a <b>Spare Part.</b> The yetis of Chillwind Point are a source of both inspiration and savage beatings. Chris Seaman 
+13 1 4 8 0 Force-Tank MAX <b>Divine Shield</b> There is a factory in Tanaris for crafting force-tanks, but it only ever made two, because of cost overruns. Nutchapol Thitinunthakorn 
+13 1 4 5 2 Druid of the Fang <b>Battlecry:</b> If you have a Beast, transform this minion into a 7/7. The Druids of the Fang live in the Wailing Caverns. They wear cool snake shirts and tell snake jokes and say "bro" a lot. Brandon Kitkouski 
+13 1 4 2 0 Gilblin Stalker <b>Stealth</b> "Shhh, I think I hear something."
+"Ah, it's probably nothing." - Every Henchman Seamus Gallagher 
+13 1 4 1 0 Clockwork Gnome <b>Deathrattle:</b> Add a <b>Spare Part</b> card to your hand. Clockwork gnomes are always asking what time it is. Matt Dixon 
+13 3 4 5 6 Upgraded Repair Bot <b>Battlecry:</b> Give a friendly Mech +4 Health. It's the same as the previous generation but they slapped the word "upgraded" on it to sell it for double. Nutchapol Thitinunthakorn 
+13 1 4 3 0 Flying Machine <b>Windfury</b> To operate, this contraption needs a hula doll on the dashboard. Otherwise it's just a “falling machine.” Matt Dixon 
+13 1 4 2 0 Annoy-o-Tron <b>Taunt</b>
+<b>Divine Shield</b> The inventor of the Annoy-o-Tron was immediately expelled from Tinkerschool, Tinkertown, and was eventually exiled from the Eastern Kingdoms altogether. Matt Dixon 
+13 3 4 5 10 Siege Engine Whenever you gain Armor, give this minion +1 Attack. Wintergrasp Keep's only weakness! Zero Yue 
+13 4 4 2 3 Steamwheedle Sniper Your Hero Power can target minions. Goblins seldom have the patience for sniping. Most prefer lobbing explosives. Jun Kang 
+13 3 4 5 7 Ogre Ninja <b>Stealth</b>
+50% chance to attack the wrong enemy. He didn't have the grades to get into ninja school, but his dad pulled some strings. Samwise 
+13 3 4 3 0 Illuminator If you control a <b>Secret</b> at the end of your turn, restore 4 Health to your hero. "LUMOS!" is not what they yell. What do you think this is, Hogwarts? Jim Nelson 
+13 3 4 5 0 Madder Bomber <b>Battlecry:</b> Deal 6 damage randomly split between all other characters. Dang, Bomber, calm down. Alex Horley Orlandelli 
+13 3 4 4 0 Arcane Nullifier X-21 <b>Taunt</b>
+Can't be targeted by spells or Hero Powers. There was some hard talk between gnome magi and engineers about inventing this mech. Zero Yue 
+13 3 4 3 0 Gnomish Experimenter <b>Battlecry:</b> Draw a card. If it's a minion, transform it into a Chicken. He's legitimately surprised every time he turns himself into a chicken. Jesper Ejsing 
+13 3 4 0 0 Target Dummy <b>Taunt</b> The engineering equivalent of a "Kick Me" sticker. Matt Dixon 
+13 3 4 4 0 Jeeves At the end of each player's turn, that player draws until they have 3 cards. This robot is a lean, mean, butlerin' machine. Matt Dixon 
+13 3 4 3 0 Goblin Sapper Has +4 Attack while your opponent has 6 or more cards in hand. He’s not such a binge exploder anymore. These days, he only explodes socially. Jesper Ejsing 
+13 1 4 4 0 Piloted Shredder <b>Deathrattle:</b> Summon a random 2-Cost minion. Once upon a time, only goblins piloted shredders. These days, everyone from Doomsayer to Lorewalker Cho seems to ride one. Dan Scott 
+13 3 4 3 0 Lil' Exorcist <b>Taunt</b>
+<b>Battlecry:</b> Gain +1/+1 for each enemy <b>Deathrattle</b> minion. Warlocks have the town exorcist on speed dial in case they unleash the wrong demon. Jim Nelson 
+13 1 4 3 0 Gnomeregan Infantry <b>Charge</b>
+<b>Taunt</b> The gnomes are valiant and ready to return to their irradiated, poorly ventilated homeland! Zoltan & Gabor 
+13 3 4 5 0 Bomb Lobber <b>Battlecry:</b> Deal 4 damage to a random enemy minion. He lobbies Orgrimmar daily on behalf of bombs. Luca Zontini 
+13 1 4 5 9 Floating Watcher Whenever your hero takes damage on your turn, gain +2/+2. "Evil Eye Watcher of Doom" was the original name, but marketing felt it was a bit too aggressive. Todd Lockwood 
+13 3 4 3 5 Scarlet Purifier <b>Battlecry</b>: Deal 2 damage to all minions with <b>Deathrattle</b>. The Scarlet Crusade is doing market research to find out if the "Mauve Crusade" would be better received. Anton Zemskov 
+13 1 4 3 0 Tinkertown Technician <b>Battlecry:</b> If you have a Mech, gain +1/+1 and add a <b>Spare Part</b> to your hand. Won't you take me to... Tinkertown? Gabor Szikszai 
+13 1 4 2 0 Micro Machine At the start of each turn, gain +1 Attack. This card is the real thing. Skan Srisuwan 
+13 4 4 3 0 Hobgoblin Whenever you play a 1-Attack minion, give it +2/+2. Hobgoblins are meeting next week to discuss union benefits.  First on the list: dental plan. Laurel D. Austin 
+13 4 4 6 0 Piloted Sky Golem <b>Deathrattle:</b> Summon a random 4-Cost minion. The pinnacle of goblin engineering. Includes an espresso machine and foot massager. Michael Phillippi 
+13 4 4 5 0 Junkbot Whenever a friendly Mech dies, gain +2/+2. One bot's junk is another bot's AWESOME UPGRADE! Zoltan Boros 
+13 4 4 4 0 Enhance-o Mechano <b>Battlecry:</b> Give your other minions <b>Windfury</b>, <b>Taunt</b>, or <b>Divine Shield</b>.
+<i>(at random)</i> His enhancements are gluten free! Zoltan Boros 
+13 4 4 2 0 Recombobulator <b>Battlecry:</b> Transform a friendly minion into a random minion with the same Cost. For when you didn’t combobulate quite right the first time around. Ben Olson 
+13 4 4 4 0 Mini-Mage <b>Stealth</b>
+<b>Spell Damage +1</b> He is sometimes found hiding in the treasure chest in the Gurubashi Arena. Ben Olson 
+13 5 4 7 0 Dr. Boom <b>Battlecry</b>: Summon two 1/1 Boom Bots. <i>WARNING: Bots may explode.</i> MARVEL AT HIS MIGHT! Alex Garner 
+13 5 4 5 0 Mimiron's Head At the start of your turn, if you have at least 3 Mechs, destroy them all and form V-07-TR-0N. Do not push the big red button! Trent Kaniuga 
+13 5 4 6 0 Mogor the Ogre All minions have a 50% chance to attack the wrong enemy. Mogor helped reopen the Dark Portal once. You know you're in trouble when you have to rely on an ogre. Michal Ivan 
+13 5 4 8 0 Foe Reaper 4000 Also damages the minions next to whomever he attacks. Foe reaping is really not so different from harvest reaping, at the end of the day. James Ryman 
+13 5 4 8 0 Sneed's Old Shredder <b>Deathrattle:</b> Summon a random <b>Legendary</b> minion. When Sneed was defeated in the Deadmines, his shredder was sold at auction to an anonymous buyer. (Probably Hogger.) Christopher Moeller 
+13 5 4 6 0 Toshley <b>Battlecry and Deathrattle:</b> Add a <b>Spare Part</b> card to your hand. Something about power converters. Zoltan & Gabor 
+13 5 4 9 0 Mekgineer Thermaplugg Whenever an enemy minion dies, summon a Leper Gnome. He was obsessed with explosives until he discovered knitting. Now he yells, “SWEATERS! MORE SWEATERS!” Trent Kaniuga 
+13 5 4 6 0 Gazlowe Whenever you cast a 1-mana spell, add a random Mech to your hand. Gazlowe was voted "Most Likely to Explode" in high school. Luke Mancini 
+13 5 4 7 0 Troggzor the Earthinator Whenever your opponent casts a spell, summon a Burly Rockjaw Trogg. He keeps earthinating the countryside despite attempts to stop him. Mike Sass 
+13 5 4 5 0 Blingtron 3000 <b>Battlecry:</b> Equip a random weapon for each player. PREPARE PARTY SERVOS FOR IMMEDIATE DEPLOYMENT. Jomaro Kindred 
+13 5 4 5 0 Hemet Nesingwary <b>Battlecry:</b> Destroy a Beast. It's hard to make a living as a hunter in a world where beasts instantly reappear minutes after you kill them. Ralph Horsley 
+13 4 4 12 0 Clockwork Giant Costs (1) less for each card in your opponent's hand. He and Mountain Giant don't get along. Dan Scott 
+13 4 4 4 4 Wee Spellstopper Adjacent minions can't be targeted by spells or Hero Powers. Bane of spellcasters and spelling bees everywhere. Jonboy Meyers 
+13 3 4 3 4 Soot Spewer <b>Spell Damage +1</b> The inventor of the goblin shredder is involved in several patent disputes with the inventor of the soot spewer. Phil Saunders 
+2 2 3 0 10 Garrosh Hellscream null null null 
+17 4 3 0 10 Magni Bronzebeard null null null 
+2 2 3 0 8 Thrall null null null 
+2 2 3 0 7 Valeera Sanguinar null null null 
+2 2 3 0 5 Uther Lightbringer null null null 
+17 4 3 0 5 Lady Liadrin null null null 
+2 2 3 0 3 Rexxar null null null 
+17 4 3 0 3 Alleria Windrunner null null null 
+2 2 3 0 2 Malfurion Stormrage null null null 
+2 2 3 0 9 Gul'dan null null null 
+2 2 3 0 4 Jaina Proudmoore null null null 
+17 4 3 0 4 Medivh null null null 
+2 2 3 0 6 Anduin Wrynn null null null 
+20 1 5 3 4 Forgotten Torch Deal $3 damage. Shuffle a 'Roaring Torch' into your deck that deals 6 damage. Why does a forgotten torch turn into a roaring torch with no provocation?  It's one of life's many mysteries. Richard Wright 
+20 1 4 5 4 Ethereal Conjurer <b>Battlecry: Discover</b> a spell. Despite the name, he's a solid conjurer. Ben Zhang 
+20 1 4 2 6 Museum Curator <b>Battlecry: Discover</b> a <b>Deathrattle</b> card. He is forever cursing the kids who climb on the rails and the evil archeologists who animate the exhibits. Steve Prescott 
+20 1 5 2 9 Curse of Rafaam Give your opponent a 'Cursed!' card.
+While they hold it, they take 2 damage on their turn. This is what happens when Rafaam stubs his toe unexpectedly. Alex Horley Orlandelli 
+20 1 4 7 10 Obsidian Destroyer At the end of your turn, summon a 1/1 Scarab with <b>Taunt</b>. No obsidian is safe around the Obsidian Destroyer! Anton Zemskov 
+20 1 4 1 7 Pit Snake Destroy any minion damaged by this minion. It could be worse.  It could be a Snake Pit. Bernie Kang 
+20 5 4 6 0 Reno Jackson <b>Battlecry:</b> If your deck contains no more than 1 of any card, fully heal your hero. Reno is a four-time winner of the 'Best Accessorized Explorer' award. Tyson Murphy 
+20 1 4 4 7 Tomb Pillager <b>Deathrattle:</b> Add a Coin to your hand. After the guild broke up, he could no longer raid the tombs. Dave Allsop 
+20 1 4 4 8 Rumbling Elemental After you play a <b>Battlecry</b> minion, deal 2 damage to a random enemy. He's a very hungry elemental. Cole Eastburn 
+20 1 4 4 5 Keeper of Uldaman <b>Battlecry:</b> Set a minion's Attack and Health to 3. U da man!  No, U da man! James Ryman 
+20 1 4 1 8 Tunnel Trogg Whenever you <b>Overload</b>, gain +1 Attack per locked Mana Crystal. Sure, they're ugly, but they live in tunnels.  You try your beauty routine without natural light. Andrew Hou 
+20 3 4 3 7 Unearthed Raptor <b>Battlecry:</b> Choose a friendly minion. Gain a copy of its <b>Deathrattle</b> effect. Still hunting for the ones who earthed him. Trent Kaniuga 
+20 1 4 3 3 Desert Camel <b>Battlecry:</b> Put a 1-Cost minion from each deck into the battlefield. Dang.  This card is sweet.  Almost as sweet as Dessert Camel. Matt Dixon 
+20 1 5 2 3 Dart Trap <b>Secret:</b> When an opposing <b>Hero Power</b> is used, deal $5 damage to a random enemy. Five years of tap-dancing lessons are FINALLY going to pay off! Zoltan Boros 
+20 1 4 3 10 Fierce Monkey <b>Taunt</b> Fierce monkey.  That funky monkey. Peter Stapleton 
+20 1 4 2 9 Dark Peddler <b>Battlecry: Discover</b> a
+1-Cost card. I'm offering you a bargain here!  This amazing vacuum cleaner for your soul! George Davis 
+20 3 5 10 5 Anyfin Can Happen Summon 7 Murlocs that died this game. Theme song by Ellie Goldfin and Blagghghlrlrl Harris. Ryan Metcalf 
+20 1 5 1 5 Sacred Trial <b>Secret:</b> After your opponent has at least 3 minions and plays another, destroy it. You have chosen poorly. Zoltan Boros 
+20 1 4 2 0 Jeweled Scarab <b>Battlecry: Discover</b> a
+3-Cost card. It's amazing what you can do with super glue! Jaemin Kim 
+20 4 4 5 0 Naga Sea Witch Your cards cost (5). If she had studied harder, she would have been a C+ witch. Ben Zhang 
+20 1 4 4 0 Gorillabot A-3 <b>Battlecry:</b> If you control another Mech, <b>Discover</b> a Mech. A-1 and A-2 went nuts, when they should have gone bolts. Skan Srisuwan 
+20 1 4 2 0 Huge Toad <b>Deathrattle:</b> Deal 1 damage to a random enemy. Deals damage when he croaks. Matt Dixon 
+20 1 4 4 0 Tomb Spider <b>Battlecry: Discover</b> a Beast. Less serious than its cousin, the Grave Spider. Turovec Konstantin 
+20 1 4 3 2 Mounted Raptor <b>Deathrattle:</b> Summon a random 1-Cost minion. Clever girl! Ben Zhang 
+20 3 4 4 2 Jungle Moonkin Both players have
+<b>Spell Damage +2</b>. The REAL angry chicken! Mike Sass 
+20 4 4 5 0 Djinni of Zephyrs After you cast a spell on another friendly minion, cast a copy of it on this one. If you want your wish granted, don't rub him the wrong way. Jakub Kasper 
+20 1 4 5 0 Anubisath Sentinel <b>Deathrattle:</b> Give a random friendly minion +3/+3. He's actually a 1/1 who picked up the hammer from the last guy. Paul Mafayon 
+20 1 4 8 0 Fossilized Devilsaur <b>Battlecry:</b> If you control a Beast, gain <b>Taunt</b>. This was the only job he could get after the dinosaur theme park debacle. Trent Kaniuga 
+20 5 4 1 0 Sir Finley Mrrgglton <b>Battlecry: Discover</b> a new basic Hero Power. In addition to fluent Common, he also speaks fourteen dialects of 'mrgl'. Matt Dixon 
+20 5 4 3 0 Brann Bronzebeard Your <b>Battlecries</b> trigger twice. Contains 75% more fiber than his brother Magni! Sam Nielson 
+20 5 4 4 0 Elise Starseeker <b>Battlecry:</b> Shuffle the 'Map to the Golden Monkey'   into your deck. A large part of her job entails not mixing up the Map to the Golden Monkey with the Map to Monkey Island. Luke Mancini 
+20 3 4 5 0 Summoning Stone Whenever you cast a spell, summon a random minion of the same Cost. Sometimes it feels like it's always the same slackers that are waiting for a summon. Jason Kang 
+20 3 4 6 0 Wobbling Runts <b>Deathrattle:</b> Summon three 2/2 Runts. The fourth one fell off in a tragic accident.  They don't talk about it. Sam Nielson 
+20 5 4 9 0 Arch-Thief Rafaam <b>Battlecry: Discover</b> a powerful Artifact. He's very good at retrieving artifacts.  From other people's museums. Alex Horley Orlandelli 
+20 1 5 6 6 Entomb Choose an enemy minion.
+Shuffle it into your deck. It's perfectly safe as long as you remember to put in air holes. Alex Konstad 
+20 3 5 2 3 Explorer's Hat Give a minion +1/+1 and "<b>Deathrattle:</b> Add an Explorer's Hat to your hand." Harrison Jones was disappointed that he didn't get to be part of the League of Explorers, but his hat did. Joe Wilson 
+20 3 4 4 0 Eerie Statue Can’t attack unless it’s the only minion in the battlefield. Don't blink!  Don't turn your back, don't look away, and DON'T BLINK. Jim Nelson 
+20 3 4 4 0 Ancient Shade <b>Battlecry:</b> Shuffle an 'Ancient Curse' into your deck that deals 7 damage to you when drawn. Warning: Do not expose to direct sunlight. Slawomir Maniak 
+20 3 5 5 6 Excavated Evil Deal $3 damage to all minions.
+Shuffle this card into your opponent's deck. MOM! DAD! DON'T TOUCH IT! IT'S EVIL!!!!!! Raymond Swanland 
+20 3 5 7 8 Everyfin is Awesome Give your minions +2/+2.
+Costs (1) less for each Murloc you control. Everyfin is cool when you're part of a murloc team! Andrius Matijoshius 
+20 1 5 1 2 Raven Idol <b>Choose One -</b>
+<b>Discover</b> a minion; or <b>Discover</b> a spell. Was petrified when it found out it didn't make the cut for Azerothean Idol. A.J. Nazzaro 
+20 3 4 1 9 Reliquary Seeker <b>Battlecry:</b> If you have 6 other minions, gain +4/+4. The Reliquary considers itself the equal of the League of Explorers.  The League of Explorers doesn't. Wayne Reynolds 
+20 3 7 1 10 Cursed Blade Double all damage dealt to your hero. The Curse is that you have to listen to "MMMBop" on repeat. Craig Mullins 
+20 3 4 4 4 Animated Armor Your hero can only take 1 damage at a time. Try putting it on.  Wait, let me get my camera. Mike Sass 
+20 1 4 0 0 Murloc Tinyfin null High mortality rate, from often being hugged to death. Oliver Chipping 
+2 1 5 0 9 Sacrificial Pact Destroy a Demon. Restore #5 Health to your hero. This is the reason that Demons never really become friends with Warlocks. Jim Nelson 
+2 1 5 6 7 Vanish Return all minions to their owner's hand. null Sean O’Daniels 
+3 4 4 6 7 Kidnapper <b>Combo:</b> Return a minion to its owner's hand. He just wants people to see his vacation photos. Dave Allsop 
+3 3 5 5 2 Starfall <b>Choose One -</b> Deal $5 damage to a minion; or $2 damage to all enemy minions. Is the sky falling?  Yes.  Yes it is. Richard Wright 
+3 4 4 7 2 Ancient of Lore <b>Choose One -</b> Draw 2 cards; or Restore 5 Health. Go ahead, carve your initials in him. Patrik Hjelm 
+3 5 4 8 8 Al'Akir the Windlord <b>Windfury, Charge, Divine Shield, Taunt</b> He is the weakest of the four Elemental Lords.  And the other three don't let him forget it. Raymond Swanland 
+2 1 4 4 10 Kor'kron Elite <b>Charge</b> The Kor'kron are the elite forces of Garrosh Hellscream. Let's just say you don't want to run into these guys while wearing a blue tabard. Alex Horley Orlandelli 
+3 1 4 1 4 Mana Wyrm Whenever you cast a spell, gain +1 Attack. These wyrms feed on arcane energies, and while they are generally considered a nuisance rather than a real threat, you really shouldn't leave them alone with a bucket of mana. Blizzard Cinematics 
+3 3 4 4 7 Master of Disguise <b>Battlecry:</b> Give a friendly minion <b>Stealth</b>. She's actually a male tauren.  People don't call him "Master of Disguise" for nothing. Ron Spencer 
+4 4 4 2 0 Captain's Parrot <b>Battlecry:</b> Put a random Pirate from your deck into your hand. Pirates and Parrots go together like Virmen and Carrots. Daren Bader 
+3 4 4 1 0 Hungry Crab <b>Battlecry:</b> Destroy a Murloc and gain +2/+2. Murloc.  It's what's for dinner. Jaemin Kim 
+3 1 4 2 0 Bloodsail Raider <b>Battlecry:</b> Gain Attack equal to the Attack of your weapon. "I only plunder on days that end in 'y'." Jim Nelson 
+3 3 4 2 0 Knife Juggler After you summon a minion, deal 1 damage to a random enemy. Ambitious Knife Jugglers sometimes graduate to Bomb Jugglers.    They never last long enough to make it onto a card though. Matt Cavotta 
+3 3 4 2 0 Wild Pyromancer After you cast a spell, deal 1 damage to ALL minions. BOOM BABY BOOM!  BAD IS GOOD!  DOWN WITH GOVERNMENT! Alex Horley Orlandelli 
+3 4 4 2 0 Doomsayer At the start of your turn, destroy ALL minions. He's almost been right so many times. He was <i>sure</i> it was coming during the Cataclysm. Alex Horley Orlandelli 
+3 1 4 4 0 Dread Corsair <b>Taunt.</b> Costs (1) less per Attack of your weapon. "Yarrrr" is a pirate word that means "Greetings, milord." Trent Kaniuga 
+3 1 4 2 0 Faerie Dragon Can't be targeted by spells or Hero Powers. Adorable.  Immune to Magic.  Doesn't pee on the rug.  The perfect pet! Samwise 
+3 5 4 5 0 Captain Greenskin <b>Battlecry:</b> Give your weapon +1/+1. He was <i>this close</i> to piloting a massive juggernaut into Stormwind Harbor. If it weren't for those pesky kids! Dan Scott 
+3 3 4 1 0 Bloodsail Corsair <b>Battlecry:</b> Remove 1 Durability from your opponent's weapon. Every pirate uses the same four digits to access Automated Gold Dispensers.  It's called the "Pirate's Code". Randy Gallegos 
+3 3 4 4 0 Violet Teacher Whenever you cast a spell, summon a 1/1 Violet Apprentice. If you don't pay attention, you may be turned into a pig.  And then you get your name on the board. James Ryman 
+3 4 4 3 0 Southsea Captain Your other Pirates have +1/+1. When he saves enough plunder, he's going to commission an enormous captain's hat.  He has hat envy. Ken Steacy 
+3 5 4 2 0 Millhouse Manastorm <b>Battlecry:</b> Enemy spells cost (0) next turn. "I'm gonna light you up, sweetcheeks!" Jim Nelson 
+3 5 4 10 0 Deathwing <b>Battlecry:</b> Destroy all other minions and discard your hand. Once a noble dragon known as Neltharion, Deathwing lost his mind and shattered Azeroth before finally being defeated.  Daddy issues? Bernie Kang 
+2 1 5 3 3 Animal Companion Summon a random Beast Companion. You could summon Misha, Leokk, or Huffer!  Huffer is more trouble than he's worth. Wei Wang 
+3 3 5 2 10 Commanding Shout Your minions can't be reduced below 1 Health this turn. Draw a card. "Shout! Shout! Let it all out!" - Advice to warriors-in-training Wayne Reynolds 
+3 3 4 2 0 Master Swordsmith At the end of your turn, give another random friendly minion +1 Attack. He's currently trying to craft a "flail-axe", but all the other swordsmiths say it can't be done. E.M. Gist 
+3 5 4 8 0 Gruul At the end of each turn, gain +1/+1 . He's Gruul "the Dragonkiller".  He just wanted to cuddle them… he never meant to…  Kev Walker 
+3 5 4 6 0 Hogger At the end of your turn, summon a 2/2 Gnoll with <b>Taunt</b>. Hogger is super powerful. If you kill him, it's because he <i>let</i> you. Laurel D. Austin 
+3 3 4 5 0 Stampeding Kodo <b>Battlecry:</b> Destroy a random enemy minion with 2 or less Attack. This Kodo is so big that he can stampede by <i>himself</i>. Daren Bader 
+11 5 4 5 0 Elite Tauren Chieftain <b>Battlecry:</b> Give both players the power to ROCK! (with a Power Chord card) He's looking for a drummer.  The current candidates are: Novice Engineer, Sen'jin Shieldmasta', and Ragnaros the Firelord. Samwise Didier 
+3 1 4 3 0 Flesheating Ghoul Whenever a minion dies, gain +1 Attack. 'Flesheating' is an unfair name.  It's just that there's not really much else for him to eat. Alex Horley Orlandelli 
+3 4 5 3 4 Spellbender <b>Secret:</b> When an enemy casts a spell on a minion, summon a 1/3 as the new target. While it's fun to intercept enemy lightning bolts, a spellbender much prefers to intercept opposing Marks of the Wild.  It just feels meaner.  And blood elves... well, they're a little mean. Gonzalo Ordonez 
