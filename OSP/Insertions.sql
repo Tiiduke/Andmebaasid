@@ -41,4 +41,5 @@ INSERT INTO Race VALUES(23, 'Pirate');
 INSERT INTO Race VALUES(24, 'Dragon');
 INSERT INTO Race VALUES(17, 'Mech');
 INSERT INTO Race VALUES(21, 'Totem');
+INSERT INTO Race VALUES(0, 'Default')
 

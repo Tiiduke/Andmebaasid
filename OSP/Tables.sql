@@ -11,7 +11,6 @@ PersonId INT,
 Gold INT,
 Dust INT
 );
-//TODO Foreign key to personid from Person
 
 CREATE TABLE Card(
 id INTEGER NOT NULL DEFAULT AUTOINCREMENT PRIMARY KEY,
@@ -24,7 +23,9 @@ Race INT,
 CardTextInHand VARCHAR(300),
 FlavorText VARCHAR(500)
 );
-
+ALTER TABLE Card ADD Collectible BIT NOT NULL;
+ALTER TABLE Card ADD ArtistName VARCHAR(100);
+ALTER TABLE Card ADD Cost INTEGER;
 
 CREATE TABLE User_Has_Card(
 Account_Gamertag VARCHAR(30),

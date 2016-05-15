@@ -3,7 +3,16 @@
  */
 public class Card {
 
-    private int cardSet, rarity,cardType,cost,classType;
+    private int cardSet, rarity,cardType,cost,classType, race;
+
+    public int getRace() {
+        return race;
+    }
+
+    public void setRace(int race) {
+        this.race = race;
+    }
+
     private boolean collectible;
     private String name, textOnCard,flavorText, artistName;
 
@@ -29,6 +38,12 @@ public class Card {
 
     public void setCollectible(boolean collectible) {
         this.collectible = collectible;
+    }
+
+    public int isCollectibleAsInt() {
+        if (isCollectible())
+            return 1;
+        return 0;
     }
 
     public int getRarity() {

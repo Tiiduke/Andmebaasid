@@ -1,0 +1,1 @@
+INPUT INTO Card(Collectible, CardSet, Rarity, CardType, Cost, CardClass, Race, CardName, CardTextInHand, FlavorText, ArtistName) FROM 'C:\Users\Tiit\Documents\2. semester\Andmebaasid\OSP\rawdata.txt' FORMAT ASCII DELIMITED BY '\x40';

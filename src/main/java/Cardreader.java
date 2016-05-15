@@ -56,6 +56,7 @@ public class Cardreader {
             case "CardType": card.setCardType(Integer.parseInt(attribute)); break;
             case "Cost": card.setCost(Integer.parseInt(attribute)); break;
             case "Class": card.setClassType(Integer.parseInt(attribute)); break;
+            case "Race": card.setRace(Integer.parseInt(attribute)); break;
             case "CardTextInHand": card.setTextOnCard(languages.item(0).getTextContent()); break;
             case "FlavorText": card.setFlavorText(languages.item(0).getTextContent()); break;
             case "ArtistName": card.setArtistName(element.getTextContent());
