@@ -93,3 +93,14 @@ CREATE VIEW view_all_paladin_cards AS
 SELECT * FROM view_all_cards
 WHERE ClassName = 'Paladin'
 GROUP BY CardName,CardTextInHand,Cost,ClassName,Race,Rarity,CardType,CardSet;
+
+CREATE PROCEDURE get_user_card_collection(IN gamertag varchar(30))
+RESULT (
+Cardname varchar(50),
+Count INTEGER
+)
+BEGIN
+    SELECT Card.CardName, Count FROM user_has_card
+    JOIN Card on(user_has_card.cardID = Card.ID)
+    WHERE user_has_card.Account_Gamertag = gamertag;
+END;
